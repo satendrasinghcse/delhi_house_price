@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delhi House Price Predictor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            text-align: center;
+        }
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 15px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            font-size: 14px;
+        }
+        input, select {
+            width: 100%;
+            padding: 5px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            padding: 10px;
+            font-size: 14px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Delhi House Price Predictor</h1>
+    <form id="pricePredictorForm">
+        <label for="area">Area (sqft):</label>
+        <input type="number" id="area" name="area" required>
+
+        <label for="bedrooms">Bedrooms:</label>
+        <input type="number" id="bedrooms" name="bedrooms" required>
+
+        <label for="bathrooms">Bathrooms:</label>
+        <input type="number" id="bathrooms" name="bathrooms" required>
+
+        <label for="balcony">Balcony:</label>
+        <input type="number" id="balcony" name="balcony" required>
+
+        <label for="parking">Parking:</label>
+        <input type="number" id="parking" name="parking" required>
+
+        <label for="lift">Lift:</label>
+        <input type="number" id="lift" name="lift" required>
+
+        <label for="price_sqft">Price per Sqft:</label>
+        <input type="number" id="price_sqft" name="price_sqft" required>
+
+        <label for="status">Status:</label>
+        <select id="status" name="status" required>
+            <option value="Ready to Move">Ready to Move</option>
+            <option value="Under Construction">Under Construction</option>
+        </select>
+
+        <label for="neworold">New or Old:</label>
+        <select id="neworold" name="neworold" required>
+            <option value="Resale">Resale</option>
+            <option value="New Property">New Property</option>
+        </select>
+
+        <label for="furnished_status">Furnished Status:</label>
+        <select id="furnished_status" name="furnished_status" required>
+            <option value="Furnished">Furnished</option>
+            <option value="Semi-Furnished">Semi-Furnished</option>
+            <option value="Unfurnished">Unfurnished</option>
+        </select>
+
+        <label for="type_of_building">Type of Building:</label>
+        <select id="type_of_building" name="type_of_building" required>
+            <option value="Flat">Flat</option>
+            <option value="Individual House">Individual House</option>
+        </select>
+
+        <label for="city">City:</label>
+        <select id="city" name="city" required>
+            <option value="Ghaziabad">Ghaziabad</option>
+            <option value="Gurgaon">Gurgaon</option>
+            <option value="New Delhi">New Delhi</option>
+            <option value="Noida">Noida</option>
+            <option value="Greater Noida">Greater Noida</option>
+            <option value="Faridabad">Faridabad</option>
+        </select>
+
+        <input type="submit" value="Predict Price">
+    </form>
+
+    <h2 id="result"></h2>
+
+    <script>
+        document.getElementById('pricePredictorForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            const formData = new FormData(event.target);
+            const data = {};
+            formData.forEach((value, key) => {
+                data[key] = value;
+
+            });
+
+            fetch('/predict_price', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('result').textContent = 'Predicted Price: ' + data.predicted_price;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>
