@@ -1,0 +1,12 @@
+pandas
+numpy
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+toml
+xgboost
+flask
+flake8
+black
+catboost

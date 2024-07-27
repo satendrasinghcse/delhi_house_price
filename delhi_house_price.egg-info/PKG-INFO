@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: delhi_house_price
+Version: 0.1.0
+Summary: A machine learning project for the delhi house price dataset
+Author: Satendra Singh
+Author-email: satendrasinghcse@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: ipykernel
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: toml
+Requires-Dist: xgboost
+Requires-Dist: flask
+Requires-Dist: flake8
+Requires-Dist: black
+Requires-Dist: catboost
