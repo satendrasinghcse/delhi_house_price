@@ -1,0 +1,1549 @@
+price,area,bedrooms,bathrooms,balcony,status,neworold,parking,furnished_status,lift,type_of_building,price_sqft,city
+4200000,1040,2,2,2.0,Ready to Move,Resale,2.0,Semi-Furnished,3.0,Flat,4038.461538,Greater Noida
+13500000,1915,4,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,7049.608355,Gurgaon
+6900000,900,2,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,7666.666667,New Delhi
+6000000,1360,3,2,1.0,Ready to Move,Resale,12.0,Unfurnished,0.0,Individual House,4411.764706,Ghaziabad
+10000000,1800,4,3,,Ready to Move,Resale,,Unfurnished,,Individual House,5555.555556,Ghaziabad
+6500000,900,3,2,2.0,Ready to Move,Resale,,Furnished,,Flat,7222.222222,New Delhi
+2650000,540,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4907.407407,New Delhi
+15000000,2160,3,3,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,6944.444444,Gurgaon
+5500000,1240,2,2,2.0,Ready to Move,Resale,,,,Flat,4435.483871,Noida
+3800000,890,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4269.662921,Ghaziabad
+6000000,1498,2,2,2.0,Ready to Move,Resale,,,,Flat,4005.340454,Gurgaon
+17400000,1800,3,4,4.0,Ready to Move,Resale,3.0,,2.0,Flat,9666.666667,New Delhi
+8500000,1180,2,2,3.0,,Resale,,Semi-Furnished,,Flat,7203.389831,Gurgaon
+3400000,800,2,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,4250.0,Ghaziabad
+5000000,1092,2,2,3.0,Ready to Move,Resale,,,,Flat,4578.754579,Noida
+8500000,1350,3,3,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,6296.296296,Gurgaon
+33900000,3775,5,4,,Ready to Move,New Property,,Semi-Furnished,,Flat,8980.13245,Noida
+9000000,1100,3,3,3.0,Ready to Move,Resale,,,,Flat,8181.818182,New Delhi
+3350000,842,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,3978.622328,Greater Noida
+9500000,1825,4,3,,Ready to Move,Resale,,,,Flat,5205.479452,Noida
+9000000,1650,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,5454.545455,Gurgaon
+4800000,800,2,2,1.0,Ready to Move,New Property,,Semi-Furnished,,Flat,6000.0,New Delhi
+5000000,1195,2,2,3.0,Ready to Move,Resale,,Unfurnished,,Flat,4184.100418,Greater Noida
+4200000,855,2,2,2.0,Ready to Move,Resale,,,,Flat,4912.280702,Noida
+8900000,1743,2,3,1.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,5106.138841,Noida
+13000000,1100,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,11818.18182,New Delhi
+12500000,1880,3,3,2.0,Ready to Move,Resale,,Unfurnished,,Flat,6648.93617,Gurgaon
+3600000,1100,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,3272.727273,Faridabad
+4200000,930,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4516.129032,New Delhi
+7500000,1675,3,3,3.0,Ready to Move,Resale,,,,Flat,4477.61194,Noida
+18500000,2627,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,7042.253521,Noida
+7000000,1235,2,2,2.0,Ready to Move,Resale,1.0,,4.0,Individual House,5668.016194,Ghaziabad
+8500000,1000,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8500.0,New Delhi
+17500000,2250,4,5,2.0,Ready to Move,New Property,,,,Flat,7777.777778,Gurgaon
+45000000,2700,4,4,2.0,Ready to Move,Resale,2.0,Semi-Furnished,1.0,Flat,16666.66667,New Delhi
+3650000,1005,2,2,2.0,Ready to Move,Resale,,,,Flat,3631.840796,Greater Noida
+17500000,1658,3,4,2.0,Ready to Move,Resale,2.0,Semi-Furnished,1.0,Flat,10554.8854,New Delhi
+3700000,1100,2,2,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3363.636364,Ghaziabad
+6000000,1310,3,2,3.0,Ready to Move,Resale,,,,Flat,4580.152672,Ghaziabad
+7100000,1505,3,2,4.0,Ready to Move,Resale,1.0,Semi-Furnished,2.0,Flat,4717.607973,Noida
+14000000,1440,4,3,1.0,Ready to Move,Resale,,Unfurnished,,Flat,9722.222222,New Delhi
+6500000,1090,2,2,,Ready to Move,Resale,,,,Flat,5963.302752,Ghaziabad
+7800000,1650,3,3,,Ready to Move,Resale,1.0,,2.0,Flat,4727.272727,Ghaziabad
+7500000,1600,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,4687.5,Greater Noida
+14000000,2370,4,7,,Ready to Move,Resale,,Furnished,,Flat,5907.172996,Ghaziabad
+6000000,1000,2,2,2.0,Ready to Move,New Property,1.0,Unfurnished,,Flat,6000.0,Gurgaon
+4000000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4444.444444,Ghaziabad
+4500000,1590,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,2830.188679,Greater Noida
+5500000,1100,4,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,5000.0,Gurgaon
+4500000,1200,2,2,2.0,Ready to Move,New Property,1.0,Furnished,,Flat,3750.0,Ghaziabad
+4950000,900,3,2,2.0,Ready to Move,Resale,2.0,Semi-Furnished,0.0,Individual House,5500.0,New Delhi
+6500000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,7222.222222,Gurgaon
+12500000,1215,3,3,2.0,Ready to Move,Resale,,Furnished,,Flat,10288.06584,Gurgaon
+6300000,1100,2,2,3.0,,New Property,,Semi-Furnished,,Flat,5727.272727,Noida
+35000000,2960,7,7,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,11824.32432,Noida
+4000000,965,2,2,3.0,Ready to Move,Resale,1.0,Furnished,4.0,Individual House,4145.07772,Greater Noida
+5000000,1125,3,2,2.0,Ready to Move,Resale,,,,Flat,4444.444444,Ghaziabad
+3500000,900,2,2,1.0,,Resale,,Unfurnished,,Flat,3888.888889,Greater Noida
+7500000,1820,3,3,4.0,Ready to Move,New Property,,Unfurnished,,Flat,4120.879121,Greater Noida
+19000000,2000,4,4,,Ready to Move,Resale,,Semi-Furnished,,Individual House,9500.0,Gurgaon
+5200000,1285,3,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,4046.692607,Greater Noida
+82000000,5495,5,6,2.0,Ready to Move,Resale,3.0,,3.0,Flat,14922.65696,Gurgaon
+3240000,1100,2,2,,Ready to Move,Resale,,,,Flat,2945.454545,Greater Noida
+6500000,1280,2,2,4.0,Ready to Move,Resale,,,,Flat,5078.125,Ghaziabad
+15000000,1800,3,2,1.0,Ready to Move,Resale,,,2.0,Flat,8333.333333,Gurgaon
+4100000,980,2,2,2.0,Ready to Move,Resale,512.0,,1.0,Flat,4183.673469,Greater Noida
+16500000,1650,4,4,4.0,Ready to Move,Resale,,Semi-Furnished,,Flat,10000.0,New Delhi
+7800000,1130,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,6902.654867,Gurgaon
+6300000,1454,3,3,3.0,Ready to Move,Resale,1.0,,1.0,Flat,4332.874828,Gurgaon
+7500000,915,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,0.0,Flat,8196.721311,New Delhi
+3500000,950,2,2,,Ready to Move,Resale,1.0,,,Flat,3684.210526,Ghaziabad
+3500000,850,2,2,1.0,Ready to Move,Resale,,Furnished,,Flat,4117.647059,New Delhi
+12000000,1250,2,2,2.0,Ready to Move,Resale,2.0,,0.0,Flat,9600.0,New Delhi
+3300000,1058,2,2,3.0,Ready to Move,Resale,,Unfurnished,,Flat,3119.092628,Ghaziabad
+4000000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4444.444444,Ghaziabad
+5900000,1400,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,4214.285714,Faridabad
+3300000,950,2,2,2.0,Ready to Move,Resale,,,,Individual House,3473.684211,Ghaziabad
+7500000,1250,3,2,3.0,Ready to Move,Resale,,,,Individual House,6000.0,Noida
+3100000,1100,3,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,2818.181818,Ghaziabad
+6800000,1095,2,2,2.0,Ready to Move,Resale,1.0,,,Flat,6210.045662,Ghaziabad
+3200000,742,2,2,,Ready to Move,Resale,,Semi-Furnished,2.0,Flat,4312.668464,Greater Noida
+3800000,1140,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3333.333333,Noida
+12000000,1500,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8000.0,New Delhi
+6500000,1540,3,3,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4220.779221,Ghaziabad
+3200000,995,2,2,3.0,Ready to Move,Resale,1.0,,4.0,Flat,3216.080402,Ghaziabad
+29500000,2700,4,5,4.0,Ready to Move,New Property,3.0,Semi-Furnished,1.0,Individual House,10925.92593,Gurgaon
+6000000,1555,3,2,4.0,Ready to Move,Resale,2.0,,2.0,Flat,3858.5209,Greater Noida
+14300000,2100,3,3,,Ready to Move,Resale,,Furnished,,Individual House,6809.52381,Ghaziabad
+7900000,1095,2,2,,Ready to Move,Resale,,,,Flat,7214.611872,Ghaziabad
+3500000,984,2,2,2.0,Ready to Move,New Property,,,,Flat,3556.910569,Greater Noida
+4250000,1060,2,2,,Ready to Move,Resale,1.0,Unfurnished,,Individual House,4009.433962,Noida
+9500000,1854,4,4,4.0,Ready to Move,Resale,1.0,,2.0,Flat,5124.056095,Noida
+8650000,1839,4,3,4.0,Ready to Move,New Property,,,,Individual House,4703.643284,Noida
+5500000,1097,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5013.673655,Gurgaon
+3200000,965,2,2,2.0,Ready to Move,Resale,,,,Flat,3316.062176,Ghaziabad
+6200000,1375,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,4509.090909,Faridabad
+19000000,2400,4,3,,Ready to Move,Resale,,Furnished,,Flat,7916.666667,Gurgaon
+7000000,1900,3,3,,Ready to Move,Resale,,,,Flat,3684.210526,Greater Noida
+5000000,1000,3,2,2.0,Ready to Move,Resale,1.0,,,Flat,5000.0,Ghaziabad
+3200000,890,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,3595.505618,Noida
+7000000,700,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,10000.0,New Delhi
+6500000,1270,3,2,,Ready to Move,Resale,,,,Flat,5118.110236,Ghaziabad
+8800000,900,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,9777.777778,New Delhi
+2350000,710,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,3309.859155,Ghaziabad
+3700000,850,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,4352.941176,New Delhi
+12500000,1650,3,3,2.0,Ready to Move,New Property,,Furnished,,Individual House,7575.757576,Gurgaon
+5800000,923,2,2,2.0,Ready to Move,Resale,1.0,,0.0,Flat,6283.856988,Gurgaon
+10000000,1779,3,3,4.0,Ready to Move,New Property,,,,Individual House,5621.135469,Noida
+4550000,1290,2,2,4.0,Ready to Move,Resale,1.0,,3.0,Individual House,3527.131783,Ghaziabad
+3800000,750,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5066.666667,Gurgaon
+4200000,1140,3,2,3.0,Ready to Move,Resale,,,,Individual House,3684.210526,Greater Noida
+26000000,3240,4,4,3.0,Ready to Move,New Property,,Semi-Furnished,,Individual House,8024.691358,Gurgaon
+10000000,1600,3,3,,Ready to Move,Resale,,Semi-Furnished,,Individual House,6250.0,Noida
+8500000,1400,2,2,,Ready to Move,Resale,,,,Flat,6071.428571,Gurgaon
+8500000,920,2,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,9239.130435,New Delhi
+2100000,615,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,3414.634146,Ghaziabad
+13000000,1800,3,3,3.0,Ready to Move,Resale,,,,Flat,7222.222222,Noida
+6200000,900,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,6888.888889,Faridabad
+3800000,1290,2,2,,Ready to Move,Resale,,,,Flat,2945.736434,Ghaziabad
+4500000,800,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,5625.0,New Delhi
+8500000,954,2,2,2.0,Ready to Move,Resale,2.0,,,Flat,8909.853249,Gurgaon
+4400000,1425,3,2,1.0,Ready to Move,Resale,,,,Flat,3087.719298,Ghaziabad
+6000000,900,2,2,1.0,Ready to Move,Resale,1.0,Furnished,,Flat,6666.666667,Ghaziabad
+11600000,1376,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8430.232558,Gurgaon
+15000000,1800,2,3,1.0,Ready to Move,New Property,,,,Flat,8333.333333,Noida
+6500000,1080,3,3,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,6018.518519,Gurgaon
+7500000,1150,2,2,2.0,Ready to Move,New Property,,,2.0,Flat,6521.73913,New Delhi
+8500000,1569,3,3,3.0,Ready to Move,Resale,2.0,,2.0,Flat,5417.463352,Noida
+8500000,1125,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,7555.555556,Gurgaon
+4730000,1200,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3941.666667,Ghaziabad
+8200000,1270,2,2,2.0,Ready to Move,Resale,,,,Flat,6456.692913,Gurgaon
+5200000,1377,3,2,,Ready to Move,Resale,1.0,,,Flat,3776.325345,Ghaziabad
+33500000,2995,4,6,,Under Construction,New Property,1.0,,2.0,Individual House,11185.30885,Gurgaon
+6000000,900,2,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,6666.666667,New Delhi
+25000000,2000,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,0.0,Flat,12500.0,New Delhi
+14000000,1815,3,3,,Ready to Move,Resale,3.0,,,Flat,7713.498623,Gurgaon
+20000000,1700,3,3,,Ready to Move,Resale,,,,Flat,11764.70588,New Delhi
+3500000,758,2,3,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4617.414248,Ghaziabad
+2800000,780,2,2,,Ready to Move,Resale,1.0,Furnished,1.0,Flat,3589.74359,New Delhi
+10500000,2400,4,3,2.0,Ready to Move,Resale,4.0,Semi-Furnished,1.0,Individual House,4375.0,Faridabad
+12500000,2194,4,3,,Ready to Move,Resale,,,,Flat,5697.356427,Gurgaon
+14000000,2160,3,4,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,6481.481481,Gurgaon
+8200000,1268,2,2,3.0,Ready to Move,Resale,1.0,,,Flat,6466.876972,Gurgaon
+6300000,1444,3,2,3.0,Ready to Move,Resale,,,1.0,Flat,4362.880886,Ghaziabad
+6900000,1410,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4893.617021,Gurgaon
+5500000,900,3,2,2.0,Ready to Move,Resale,,Furnished,,Individual House,6111.111111,New Delhi
+4200000,1150,2,2,,Ready to Move,Resale,,,,Individual House,3652.173913,Greater Noida
+39100000,3700,5,6,2.0,Ready to Move,New Property,2.0,Semi-Furnished,1.0,Flat,10567.56757,Gurgaon
+4500000,972,2,2,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4629.62963,Faridabad
+3500000,890,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3932.58427,Greater Noida
+10500000,1850,3,4,2.0,Ready to Move,Resale,2.0,,3.0,Flat,5675.675676,Noida
+6100000,1350,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,4518.518519,New Delhi
+13000000,1800,4,3,3.0,Ready to Move,New Property,,Semi-Furnished,,Flat,7222.222222,Gurgaon
+4800000,1100,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4363.636364,Ghaziabad
+3750000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4166.666667,Ghaziabad
+7000000,1078,2,2,3.0,Ready to Move,Resale,,,,Flat,6493.506494,Gurgaon
+6000000,1080,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,5555.555556,Faridabad
+17000000,2150,3,3,2.0,Ready to Move,New Property,,,1.0,Flat,7906.976744,Gurgaon
+10500000,1900,6,4,3.0,Ready to Move,Resale,,Unfurnished,,Flat,5526.315789,Ghaziabad
+4500000,850,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,5294.117647,New Delhi
+5700000,1260,2,2,4.0,Ready to Move,Resale,1.0,,,Flat,4523.809524,Noida
+4000000,1000,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4000.0,Gurgaon
+9500000,1300,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,7307.692308,New Delhi
+4500000,1175,2,2,4.0,Ready to Move,Resale,,,,Flat,3829.787234,Noida
+9500000,1970,3,3,3.0,Ready to Move,Resale,1.0,,,Flat,4822.335025,Gurgaon
+7000000,1008,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,6944.444444,New Delhi
+8000000,1263,3,3,3.0,Ready to Move,Resale,1.0,,0.0,Flat,6334.125099,Gurgaon
+20500000,1800,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,11388.88889,New Delhi
+9000000,1660,3,4,3.0,Ready to Move,Resale,1.0,Furnished,2.0,Flat,5421.686747,Ghaziabad
+3000000,546,2,2,,,Resale,,Unfurnished,,Flat,5494.505495,Gurgaon
+5800000,1490,3,3,3.0,Ready to Move,New Property,,Unfurnished,,Individual House,3892.61745,Greater Noida
+4200000,1150,3,2,2.0,Ready to Move,New Property,1.0,Semi-Furnished,0.0,Flat,3652.173913,Faridabad
+8000000,1742,3,3,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4592.422503,Greater Noida
+8600000,1050,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8190.47619,New Delhi
+6500000,1400,3,2,1.0,Ready to Move,New Property,1.0,Semi-Furnished,1.0,Flat,4642.857143,Ghaziabad
+9990000,1717,3,4,3.0,Ready to Move,Resale,2.0,,3.0,Flat,5818.287711,Noida
+4650000,1265,2,2,,Ready to Move,Resale,,,,Individual House,3675.889328,Faridabad
+3500000,630,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5555.555556,Gurgaon
+5200000,900,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,5777.777778,Ghaziabad
+8600000,925,3,2,1.0,Ready to Move,New Property,2.0,Semi-Furnished,1.0,Flat,9297.297297,New Delhi
+33000000,3150,4,5,5.0,Ready to Move,Resale,2.0,Semi-Furnished,2.0,Flat,10476.19048,Gurgaon
+6000000,1180,3,3,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,5084.745763,Noida
+7000000,560,2,2,,Ready to Move,Resale,,Furnished,,Flat,12500.0,New Delhi
+8900000,1000,2,2,2.0,Ready to Move,Resale,2.0,Semi-Furnished,0.0,Flat,8900.0,New Delhi
+3600000,900,2,2,2.0,Ready to Move,Resale,,Furnished,,Flat,4000.0,Faridabad
+8830000,1700,3,3,,Ready to Move,Resale,,,,Flat,5194.117647,Faridabad
+3500000,1100,2,2,3.0,,Resale,,Unfurnished,,Individual House,3181.818182,Greater Noida
+7000000,2000,4,4,,Ready to Move,Resale,,Unfurnished,,Flat,3500.0,Noida
+8500000,1770,3,3,4.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4802.259887,Gurgaon
+35000000,4500,4,4,2.0,Ready to Move,New Property,4.0,Furnished,1.0,Flat,7777.777778,Gurgaon
+11500000,1800,3,3,,,Resale,,Semi-Furnished,,Flat,6388.888889,Gurgaon
+3700000,1075,2,2,2.0,Ready to Move,Resale,2.0,,2.0,Flat,3441.860465,Ghaziabad
+12000000,1980,3,3,2.0,Ready to Move,New Property,2.0,,,Flat,6060.606061,Gurgaon
+7200000,1380,3,2,5.0,Ready to Move,Resale,,,,Flat,5217.391304,Ghaziabad
+3200000,950,2,2,,,Resale,,Semi-Furnished,,Flat,3368.421053,Ghaziabad
+3400000,1020,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,3333.333333,Ghaziabad
+4500000,1197,2,2,,Ready to Move,Resale,1.0,,3.0,Flat,3759.398496,Greater Noida
+7500000,1710,3,2,3.0,Ready to Move,New Property,,Semi-Furnished,,Flat,4385.964912,Faridabad
+3800000,1005,2,2,1.0,Ready to Move,Resale,2.0,,3.0,Flat,3781.094527,Greater Noida
+4500000,900,3,2,3.0,Ready to Move,Resale,,,,Flat,5000.0,New Delhi
+25000000,1700,3,3,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,14705.88235,New Delhi
+15900000,2000,3,3,,Ready to Move,Resale,,Semi-Furnished,,Individual House,7950.0,Gurgaon
+4300000,900,2,2,1.0,Ready to Move,Resale,1.0,Furnished,,Flat,4777.777778,Ghaziabad
+16000000,3375,4,5,3.0,Ready to Move,Resale,2.0,Semi-Furnished,,Individual House,4740.740741,Ghaziabad
+5400000,1300,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,0.0,Individual House,4153.846154,Ghaziabad
+9000000,1580,3,3,4.0,Ready to Move,Resale,,,,Flat,5696.202532,Ghaziabad
+2500000,629,2,2,1.0,,Resale,1.0,Unfurnished,,Flat,3974.562798,Gurgaon
+5400000,1150,2,2,3.0,Ready to Move,Resale,,,,Flat,4695.652174,Ghaziabad
+49500000,4800,6,6,4.0,Ready to Move,Resale,,Semi-Furnished,,Flat,10312.5,Gurgaon
+18000000,2430,4,4,3.0,Ready to Move,Resale,1.0,,3.0,Individual House,7407.407407,Gurgaon
+4500000,1250,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Individual House,3600.0,Ghaziabad
+6800000,1340,3,3,3.0,Ready to Move,Resale,2.0,,3.0,Flat,5074.626866,Noida
+20500000,2425,4,4,4.0,Ready to Move,Resale,,,,Flat,8453.608247,Gurgaon
+4200000,810,3,2,1.0,Ready to Move,New Property,1.0,Unfurnished,1.0,Flat,5185.185185,New Delhi
+7300000,1690,3,3,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4319.526627,Ghaziabad
+13500000,2150,3,3,5.0,,Resale,,Semi-Furnished,,Individual House,6279.069767,Gurgaon
+8000000,1690,3,4,5.0,Ready to Move,Resale,,Furnished,,Flat,4733.727811,Ghaziabad
+3000000,800,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,3750.0,Ghaziabad
+2300000,750,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,3066.666667,Ghaziabad
+7460000,1446,3,2,,Ready to Move,Resale,,,,Flat,5159.059474,Noida
+3500000,995,2,2,3.0,Ready to Move,New Property,1.0,,,Flat,3517.58794,Ghaziabad
+7900000,1525,3,3,3.0,,Resale,1.0,Furnished,,Individual House,5180.327869,Ghaziabad
+4300000,1250,3,2,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,3440.0,Faridabad
+9700000,1312,3,3,3.0,Ready to Move,Resale,1.0,,,Flat,7393.292683,Gurgaon
+3200000,880,2,2,2.0,Ready to Move,Resale,,,,Individual House,3636.363636,Ghaziabad
+9800000,1698,3,3,4.0,Ready to Move,Resale,,,,Flat,5771.495878,Ghaziabad
+13500000,1450,3,2,3.0,Ready to Move,Resale,,,,Flat,9310.344828,New Delhi
+9200000,1960,3,3,3.0,Ready to Move,Resale,123.0,,2.0,Individual House,4693.877551,Gurgaon
+2900000,940,2,2,2.0,,Resale,1.0,Semi-Furnished,2.0,Flat,3085.106383,Noida
+3700000,895,2,2,3.0,Ready to Move,New Property,,Semi-Furnished,,Individual House,4134.078212,Greater Noida
+6500000,1310,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,4961.832061,Gurgaon
+2500000,800,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,3125.0,Ghaziabad
+17500000,1658,3,2,1.0,Ready to Move,New Property,2.0,Semi-Furnished,1.0,Flat,10554.8854,New Delhi
+5000000,1250,3,2,1.0,Ready to Move,Resale,,Furnished,,Flat,4000.0,Ghaziabad
+3800000,895,2,2,2.0,Ready to Move,Resale,,,,Flat,4245.810056,Ghaziabad
+6000000,1250,2,2,3.0,Ready to Move,Resale,,,,Flat,4800.0,Noida
+6820000,1250,2,2,,Ready to Move,Resale,,Furnished,,Individual House,5456.0,Ghaziabad
+4900000,1225,2,2,4.0,Ready to Move,Resale,,Unfurnished,,Flat,4000.0,Greater Noida
+5400000,1300,2,2,,Ready to Move,Resale,,,,Flat,4153.846154,Ghaziabad
+5000000,1000,3,2,,Ready to Move,Resale,,Furnished,,Flat,5000.0,Ghaziabad
+3500000,1250,2,2,2.0,Ready to Move,Resale,,,,Flat,2800.0,Ghaziabad
+3600000,1290,3,2,,Ready to Move,Resale,,,,Flat,2790.697674,Greater Noida
+3400000,900,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,3777.777778,Ghaziabad
+5000000,1300,3,3,2.0,Ready to Move,Resale,,,,Flat,3846.153846,Greater Noida
+4500000,1250,3,2,3.0,Ready to Move,Resale,,,,Flat,3600.0,Noida
+5700000,1230,2,2,3.0,Ready to Move,Resale,,Unfurnished,,Flat,4634.146341,Greater Noida
+10000000,1650,3,2,3.0,Ready to Move,Resale,1.0,,1.0,Flat,6060.606061,Ghaziabad
+11000000,1810,3,3,4.0,Ready to Move,Resale,,Unfurnished,,Flat,6077.348066,Gurgaon
+5350000,1155,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,4632.034632,Greater Noida
+5000000,1200,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,4166.666667,Faridabad
+8000000,1350,3,2,2.0,,Resale,1.0,Semi-Furnished,,Flat,5925.925926,Noida
+7840000,1425,3,2,,,Resale,,,,Individual House,5501.754386,Noida
+6500000,800,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,8125.0,New Delhi
+6400000,1455,3,2,3.0,Ready to Move,Resale,1.0,,2.0,Individual House,4398.62543,Noida
+6000000,1267,6,2,,Ready to Move,Resale,,Unfurnished,,Flat,4735.595896,Ghaziabad
+25000000,2250,4,3,1.0,Ready to Move,Resale,1.0,Unfurnished,0.0,Flat,11111.11111,New Delhi
+3900000,1105,2,2,,Ready to Move,Resale,,,,Flat,3529.411765,Ghaziabad
+7350000,1300,3,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,5653.846154,Gurgaon
+5350000,1300,3,2,,Ready to Move,Resale,,,,Individual House,4115.384615,Greater Noida
+7200000,1587,3,3,,Ready to Move,Resale,,,,Flat,4536.862004,Gurgaon
+8500000,1600,3,3,3.0,,New Property,2.0,Semi-Furnished,1.0,Flat,5312.5,Gurgaon
+4700000,1110,3,2,2.0,Ready to Move,New Property,1.0,Semi-Furnished,1.0,Flat,4234.234234,New Delhi
+17000000,1780,3,3,2.0,Ready to Move,Resale,,,,Flat,9550.561798,Gurgaon
+5300000,942,2,2,3.0,Ready to Move,Resale,10.0,,3.0,Flat,5626.326964,Ghaziabad
+3950000,1080,2,2,2.0,Ready to Move,Resale,,,2.0,Individual House,3657.407407,Greater Noida
+6300000,924,2,2,,,Resale,,Semi-Furnished,,Individual House,6818.181818,Gurgaon
+7000000,1715,3,3,2.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,4081.632653,Greater Noida
+7500000,1485,3,3,3.0,Ready to Move,Resale,,,,Flat,5050.505051,Gurgaon
+4550000,1440,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3159.722222,Faridabad
+10000000,1535,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,6514.65798,Gurgaon
+8700000,1495,3,2,,Ready to Move,New Property,,Semi-Furnished,,Flat,5819.397993,Noida
+2800000,750,2,2,1.0,Ready to Move,New Property,1.0,Semi-Furnished,1.0,Flat,3733.333333,Gurgaon
+44000000,3850,3,4,3.0,Ready to Move,Resale,2.0,,2.0,Individual House,11428.57143,Gurgaon
+6000000,1675,3,4,4.0,,Resale,1.0,Unfurnished,3.0,Individual House,3582.089552,Noida
+6000000,1744,3,3,4.0,Ready to Move,Resale,,,,Individual House,3440.366972,Greater Noida
+13000000,1895,3,3,,Ready to Move,Resale,1.0,,,Flat,6860.158311,Gurgaon
+19000000,1800,3,3,3.0,Ready to Move,Resale,3.0,Semi-Furnished,1.0,Flat,10555.55556,Gurgaon
+2650000,835,2,2,2.0,,Resale,1.0,Unfurnished,,Flat,3173.652695,Greater Noida
+7000000,900,2,2,,Ready to Move,Resale,2.0,Unfurnished,,Flat,7777.777778,Gurgaon
+5000000,1285,3,2,3.0,Ready to Move,Resale,,,,Flat,3891.050584,Noida
+3200000,926,2,2,2.0,Ready to Move,Resale,,,,Flat,3455.723542,Ghaziabad
+4600000,1175,3,2,2.0,Ready to Move,Resale,,,,Flat,3914.893617,Ghaziabad
+3500000,1050,2,2,1.0,,Resale,,Semi-Furnished,,Flat,3333.333333,Ghaziabad
+8500000,1232,3,2,,Ready to Move,Resale,1.0,,,Flat,6899.350649,Noida
+11000000,1900,3,3,3.0,Ready to Move,Resale,,,,Flat,5789.473684,Ghaziabad
+5000000,1300,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3846.153846,Ghaziabad
+5900000,1875,3,4,,Ready to Move,Resale,,,,Flat,3146.666667,Greater Noida
+3500000,1050,2,2,2.0,Ready to Move,Resale,,,,Flat,3333.333333,Ghaziabad
+5000000,950,2,2,2.0,Ready to Move,Resale,,,,Flat,5263.157895,Noida
+9500000,1802,3,3,3.0,Ready to Move,Resale,,,2.0,Flat,5271.920089,Gurgaon
+12500000,1450,3,3,,Ready to Move,Resale,1.0,,0.0,Flat,8620.689655,New Delhi
+82500000,5330,5,6,4.0,Ready to Move,Resale,3.0,,3.0,Individual House,15478.42402,Gurgaon
+13000000,1260,4,2,,Ready to Move,Resale,,Furnished,,Flat,10317.46032,New Delhi
+3000000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3333.333333,Greater Noida
+8000000,1260,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,6349.206349,Gurgaon
+12500000,2000,4,4,4.0,Ready to Move,Resale,,Furnished,,Flat,6250.0,Ghaziabad
+7000000,1895,4,3,3.0,Ready to Move,New Property,,,,Flat,3693.931398,Ghaziabad
+6000000,1300,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,4615.384615,Ghaziabad
+4600000,1232,3,2,,Ready to Move,Resale,,,,Flat,3733.766234,Faridabad
+9000000,1800,3,4,4.0,,Resale,1.0,Semi-Furnished,,Flat,5000.0,Gurgaon
+7800000,1080,2,2,,,Resale,,Unfurnished,,Flat,7222.222222,Ghaziabad
+6000000,1350,3,2,2.0,Ready to Move,New Property,1.0,Semi-Furnished,1.0,Flat,4444.444444,Gurgaon
+5700000,1000,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,5700.0,Noida
+5500000,1150,2,2,,Ready to Move,Resale,1.0,,,Flat,4782.608696,Noida
+14500000,1650,3,2,3.0,Ready to Move,Resale,,,,Individual House,8787.878788,New Delhi
+11000000,1570,2,2,,Ready to Move,Resale,,,,Flat,7006.369427,Gurgaon
+10500000,1200,2,2,1.0,Ready to Move,Resale,1.0,,2.0,Flat,8750.0,Gurgaon
+6300000,1840,3,3,2.0,Ready to Move,Resale,,,,Flat,3423.913043,Greater Noida
+10000000,1908,4,3,1.0,Ready to Move,Resale,,,,Individual House,5241.090147,Faridabad
+3900000,950,2,2,,Ready to Move,Resale,,Furnished,,Flat,4105.263158,Ghaziabad
+2900000,851,2,2,2.0,Ready to Move,Resale,,,,Individual House,3407.755582,Noida
+2900000,1050,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,2761.904762,Ghaziabad
+4600000,920,2,2,,Ready to Move,Resale,,,,Flat,5000.0,Noida
+4500000,700,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,6428.571429,Ghaziabad
+4070000,1344,2,2,,Under Construction,New Property,,,3.0,Flat,3028.27381,Ghaziabad
+4800000,900,3,2,,Ready to Move,Resale,,Unfurnished,,Individual House,5333.333333,New Delhi
+6000000,1265,3,2,2.0,Ready to Move,Resale,2.0,,2.0,Flat,4743.083004,Greater Noida
+6000000,1400,2,2,4.0,Ready to Move,Resale,,Furnished,,Flat,4285.714286,Greater Noida
+5500000,1206,3,2,2.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,4560.53068,Greater Noida
+35000000,5200,5,9,,Ready to Move,Resale,,Semi-Furnished,,Individual House,6730.769231,Greater Noida
+5200000,1100,3,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,4727.272727,New Delhi
+10900000,1350,3,3,,Ready to Move,Resale,6.0,Semi-Furnished,,Flat,8074.074074,New Delhi
+5500000,950,5,3,2.0,Ready to Move,Resale,,Furnished,,Individual House,5789.473684,New Delhi
+12000000,2000,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,6000.0,Gurgaon
+6000000,1295,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4633.204633,Greater Noida
+5700000,1316,2,3,4.0,Ready to Move,Resale,1.0,,2.0,Flat,4331.306991,Noida
+7000000,1769,3,3,3.0,Ready to Move,Resale,,,,Individual House,3957.037875,Ghaziabad
+3200000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3555.555556,Ghaziabad
+35000000,1950,3,3,3.0,Ready to Move,Resale,3.0,Semi-Furnished,1.0,Flat,17948.71795,New Delhi
+16200000,2150,4,4,4.0,Ready to Move,Resale,2.0,,2.0,Flat,7534.883721,Gurgaon
+4500000,1200,2,2,,Ready to Move,Resale,,,,Flat,3750.0,Greater Noida
+6500000,516,3,4,3.0,Ready to Move,New Property,,Semi-Furnished,,Flat,12596.89922,Gurgaon
+4200000,1267,3,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,3314.917127,Greater Noida
+50000000,4700,6,6,,Ready to Move,Resale,,Unfurnished,,Flat,10638.29787,Faridabad
+9400000,2000,4,3,,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4700.0,Ghaziabad
+4500000,720,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,6250.0,New Delhi
+6200000,1100,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,5636.363636,Ghaziabad
+5500000,1720,3,3,4.0,Ready to Move,Resale,,,,Flat,3197.674419,Ghaziabad
+4100000,995,2,2,3.0,,Resale,2.0,Unfurnished,,Flat,4120.603015,Ghaziabad
+5100000,1273,2,2,,Ready to Move,Resale,,,,Flat,4006.284368,Faridabad
+6000000,1000,3,2,1.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,6000.0,New Delhi
+27000000,2650,4,3,4.0,Ready to Move,Resale,2.0,,2.0,Flat,10188.67925,New Delhi
+5000000,1550,3,3,2.0,Ready to Move,Resale,,,,Flat,3225.806452,Ghaziabad
+14700000,2000,3,3,2.0,Ready to Move,New Property,3.0,,1.0,Flat,7350.0,Gurgaon
+9400000,2200,4,4,,Ready to Move,Resale,,Unfurnished,,Flat,4272.727273,Greater Noida
+8000000,1645,3,3,3.0,Ready to Move,Resale,2.0,,,Flat,4863.221884,Gurgaon
+8800000,1779,3,3,,Ready to Move,Resale,,,,Flat,4946.599213,Noida
+5500000,950,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5789.473684,New Delhi
+4700000,1225,3,2,3.0,,New Property,,Unfurnished,,Flat,3836.734694,Noida
+5300000,1125,2,2,4.0,Ready to Move,Resale,2.0,,2.0,Flat,4711.111111,Ghaziabad
+6000000,1155,2,2,4.0,Ready to Move,Resale,1.0,,2.0,Flat,5194.805195,Ghaziabad
+5000000,1220,3,2,3.0,Ready to Move,Resale,,,,Flat,4098.360656,Greater Noida
+4200000,1106,2,2,3.0,Ready to Move,Resale,,,,Flat,3797.468354,Noida
+5900000,1150,2,2,,Ready to Move,Resale,2.0,,0.0,Flat,5130.434783,Noida
+11500000,2300,3,4,,Ready to Move,Resale,1.0,,2.0,Flat,5000.0,Gurgaon
+4000000,1252,2,3,2.0,Ready to Move,New Property,,,,Flat,3194.888179,Ghaziabad
+6500000,1140,2,2,2.0,Ready to Move,New Property,,,2.0,Flat,5701.754386,Gurgaon
+5000000,945,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,5291.005291,New Delhi
+6000000,1235,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4858.299595,Faridabad
+3840000,1250,2,2,2.0,Ready to Move,New Property,,Unfurnished,,Flat,3072.0,Ghaziabad
+8500000,1820,3,3,,,Resale,,Unfurnished,,Flat,4670.32967,Gurgaon
+3140000,835,2,2,,Ready to Move,Resale,,,,Flat,3760.479042,Greater Noida
+5000000,1295,3,2,,,Resale,,Unfurnished,,Flat,3861.003861,Greater Noida
+5600000,1100,2,2,2.0,Ready to Move,Resale,,Furnished,,Individual House,5090.909091,Ghaziabad
+3500000,1050,2,2,3.0,Ready to Move,New Property,1.0,,2.0,Flat,3333.333333,Greater Noida
+24000000,2311,3,4,3.0,Ready to Move,Resale,,,,Flat,10385.11467,Gurgaon
+40000000,6000,7,7,,Ready to Move,Resale,6.0,Furnished,,Individual House,6666.666667,Greater Noida
+4500000,946,2,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4756.871036,Ghaziabad
+2300000,801,2,2,1.0,Ready to Move,Resale,7.0,Semi-Furnished,1.0,Flat,2871.410737,Noida
+2200000,750,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,0.0,Flat,2933.333333,New Delhi
+4400000,1185,2,2,,Ready to Move,Resale,1.0,,,Individual House,3713.080169,Greater Noida
+4280000,1475,3,2,3.0,Ready to Move,Resale,,,,Flat,2901.694915,Ghaziabad
+5500000,1045,2,2,3.0,Ready to Move,New Property,,,,Flat,5263.157895,Noida
+7200000,1260,3,2,,Ready to Move,Resale,502.0,,,Flat,5714.285714,Ghaziabad
+4300000,1145,2,2,3.0,Ready to Move,Resale,,,,Flat,3755.458515,Noida
+8000000,900,2,2,1.0,Ready to Move,Resale,,,,Flat,8888.888889,Gurgaon
+5500000,1250,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,4400.0,Gurgaon
+5500000,1700,3,3,,Ready to Move,Resale,,,,Flat,3235.294118,Greater Noida
+2590000,880,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,2943.181818,Ghaziabad
+6600000,1260,2,2,2.0,Ready to Move,Resale,1.0,,3.0,Individual House,5238.095238,Gurgaon
+10000000,1940,3,3,,,Resale,,Semi-Furnished,,Flat,5154.639175,Gurgaon
+3000000,700,2,2,1.0,Ready to Move,Resale,,Furnished,,Flat,4285.714286,New Delhi
+26000000,2700,6,5,,Ready to Move,Resale,,Semi-Furnished,,Flat,9629.62963,Gurgaon
+25500000,1800,3,4,,Ready to Move,Resale,4.0,Semi-Furnished,,Individual House,14166.66667,New Delhi
+4500000,1000,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,4500.0,Noida
+9000000,1405,3,3,3.0,Ready to Move,Resale,,,,Flat,6405.69395,Noida
+6500000,900,3,2,4.0,Ready to Move,Resale,,Semi-Furnished,,Flat,7222.222222,New Delhi
+9000000,900,4,2,3.0,Ready to Move,Resale,,,,Flat,10000.0,Gurgaon
+6000000,1175,2,2,3.0,Ready to Move,Resale,1.0,,,Flat,5106.382979,Ghaziabad
+11500000,1140,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,10087.7193,New Delhi
+8500000,1446,2,2,2.0,Ready to Move,Resale,,,,Flat,5878.284924,Gurgaon
+16900000,3414,4,4,,Ready to Move,Resale,,Unfurnished,,Flat,4950.205038,Gurgaon
+36500000,1800,3,3,2.0,Ready to Move,New Property,2.0,,1.0,Individual House,20277.77778,New Delhi
+16500000,1440,3,3,2.0,Ready to Move,Resale,,,,Flat,11458.33333,New Delhi
+5300000,942,2,2,3.0,Ready to Move,Resale,1.0,,3.0,Flat,5626.326964,Ghaziabad
+7500000,900,2,2,1.0,Ready to Move,Resale,,,,Individual House,8333.333333,Gurgaon
+4800000,1160,2,2,4.0,Ready to Move,Resale,1.0,Semi-Furnished,2.0,Flat,4137.931034,Greater Noida
+5500000,1761,3,3,,Ready to Move,Resale,1.0,,2.0,Flat,3123.22544,Greater Noida
+3500000,1040,2,2,2.0,Ready to Move,Resale,,,,Flat,3365.384615,Greater Noida
+3500000,1040,2,2,,Ready to Move,Resale,,,,Individual House,3365.384615,Greater Noida
+4000000,950,2,2,1.0,Ready to Move,Resale,2.0,Unfurnished,,Flat,4210.526316,Faridabad
+6500000,1157,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,5617.977528,Noida
+2500000,648,2,2,,Ready to Move,Resale,1.0,Furnished,,Flat,3858.024691,New Delhi
+2950000,960,2,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,3072.916667,Ghaziabad
+3800000,1010,2,2,3.0,Ready to Move,Resale,,,,Flat,3762.376238,Greater Noida
+6200000,1210,2,3,3.0,Ready to Move,Resale,1.0,,3.0,Flat,5123.966942,Noida
+4600000,900,3,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,5111.111111,Faridabad
+40200000,5010,5,5,5.0,Ready to Move,Resale,2.0,Semi-Furnished,3.0,Flat,8023.952096,Gurgaon
+4000000,720,2,2,1.0,Ready to Move,Resale,2.0,Semi-Furnished,1.0,Flat,5555.555556,Gurgaon
+5400000,1290,2,2,3.0,Ready to Move,Resale,,,,Individual House,4186.046512,Greater Noida
+11200000,1170,4,3,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,9572.649573,New Delhi
+18000000,1450,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,12413.7931,Gurgaon
+11500000,1920,3,3,1.0,Ready to Move,Resale,2.0,,3.0,Flat,5989.583333,Gurgaon
+9500000,1758,3,3,3.0,Ready to Move,Resale,92.0,,2.0,Flat,5403.868032,Noida
+2700000,800,2,2,2.0,Ready to Move,Resale,,,,Flat,3375.0,Ghaziabad
+8000000,1540,3,3,,Ready to Move,New Property,,,,Flat,5194.805195,Noida
+4500000,700,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,6428.571429,Gurgaon
+5400000,1300,3,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4153.846154,Ghaziabad
+4800000,970,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,4948.453608,Ghaziabad
+50000000,5000,6,6,,Ready to Move,Resale,,Semi-Furnished,,Flat,10000.0,Gurgaon
+6700000,1095,2,2,,Ready to Move,Resale,,,,Flat,6118.721461,Noida
+8500000,1402,3,2,,Ready to Move,Resale,1.0,,2.0,Flat,6062.767475,Gurgaon
+14500000,2000,3,4,2.0,Ready to Move,Resale,,,,Individual House,7250.0,Gurgaon
+4800000,1245,3,2,4.0,Ready to Move,Resale,,,,Flat,3855.421687,Greater Noida
+3500000,850,2,2,1.0,Ready to Move,Resale,1.0,,1.0,Flat,4117.647059,Ghaziabad
+7000000,900,2,2,,Ready to Move,Resale,1.0,Furnished,,Flat,7777.777778,New Delhi
+22500000,507,10,6,,Ready to Move,Resale,,Unfurnished,,Individual House,44378.69822,New Delhi
+3100000,935,2,2,2.0,Ready to Move,New Property,2.0,,2.0,Flat,3315.508021,Gurgaon
+4300000,1025,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4195.121951,Greater Noida
+3000000,890,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3370.786517,Ghaziabad
+3000000,1100,2,2,2.0,Ready to Move,Resale,2.0,Semi-Furnished,1.0,Flat,2727.272727,Ghaziabad
+2500000,540,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,4629.62963,Ghaziabad
+6000000,940,2,2,,Ready to Move,Resale,,Furnished,,Flat,6382.978723,Ghaziabad
+7500000,1600,3,3,,Ready to Move,Resale,,,,Flat,4687.5,Noida
+2550000,650,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3923.076923,Gurgaon
+7000000,600,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,11666.66667,New Delhi
+4100000,1025,2,2,3.0,Ready to Move,Resale,,,,Flat,4000.0,Greater Noida
+8550000,900,2,2,,Ready to Move,Resale,,Furnished,,Flat,9500.0,New Delhi
+21000000,1450,3,3,2.0,Ready to Move,New Property,,Unfurnished,,Flat,14482.75862,New Delhi
+3650000,850,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,4294.117647,Ghaziabad
+3200000,950,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,3368.421053,Ghaziabad
+21500000,3045,4,3,,Ready to Move,Resale,,,,Flat,7060.755337,Gurgaon
+3400000,835,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,4071.856287,Greater Noida
+4800000,1285,3,3,3.0,,Resale,,Semi-Furnished,,Flat,3735.40856,Greater Noida
+5500000,1000,2,2,1.0,Ready to Move,Resale,,,0.0,Flat,5500.0,New Delhi
+3900000,1365,3,3,2.0,Ready to Move,Resale,,,,Flat,2857.142857,Ghaziabad
+40500000,7000,9,9,9.0,Ready to Move,Resale,6.0,Unfurnished,,Flat,5785.714286,Noida
+8200000,1360,2,2,,Ready to Move,Resale,787.0,,,Flat,6029.411765,Gurgaon
+22500000,3500,4,4,3.0,Ready to Move,Resale,,,,Flat,6428.571429,Gurgaon
+16000000,2000,6,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,8000.0,New Delhi
+12000000,1800,4,3,2.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,6666.666667,Faridabad
+3500000,800,2,3,,Ready to Move,Resale,1.0,Unfurnished,,Individual House,4375.0,Gurgaon
+5310000,1100,3,2,,Ready to Move,Resale,,Furnished,,Flat,4827.272727,Ghaziabad
+4700000,1350,3,2,2.0,Ready to Move,Resale,1.0,Unfurnished,0.0,Flat,3481.481481,Faridabad
+11000000,1400,3,3,,Ready to Move,Resale,,Furnished,,Flat,7857.142857,Gurgaon
+7500000,1520,4,3,2.0,Ready to Move,Resale,1.0,Unfurnished,1.0,Flat,4934.210526,Ghaziabad
+2700000,895,2,2,2.0,,Resale,,Unfurnished,4.0,Flat,3016.759777,Greater Noida
+3750000,950,2,2,1.0,Ready to Move,Resale,1.0,,0.0,Flat,3947.368421,Ghaziabad
+43000000,7000,7,7,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,6142.857143,Noida
+4650000,1105,2,2,4.0,,Resale,,Semi-Furnished,,Flat,4208.144796,Ghaziabad
+6000000,1170,2,3,,Ready to Move,Resale,,Furnished,,Flat,5128.205128,Ghaziabad
+5000000,1060,3,3,3.0,Ready to Move,Resale,1.0,Furnished,,Flat,4716.981132,Ghaziabad
+45000000,4064,4,5,5.0,Ready to Move,Resale,3.0,,3.0,Flat,11072.83465,Gurgaon
+6740000,1280,3,3,3.0,Ready to Move,Resale,,,,Flat,5265.625,Gurgaon
+4000000,1080,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,3703.703704,Ghaziabad
+45000000,5200,9,8,5.0,Ready to Move,Resale,,Unfurnished,,Flat,8653.846154,Gurgaon
+3500000,950,2,2,1.0,Ready to Move,Resale,1.0,,1.0,Individual House,3684.210526,Noida
+2900000,700,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,4142.857143,New Delhi
+3200000,890,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3595.505618,Greater Noida
+2900000,600,2,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,4833.333333,Ghaziabad
+14400000,2150,3,4,4.0,Ready to Move,Resale,1.0,,3.0,Individual House,6697.674419,Gurgaon
+7880000,997,2,2,,Ready to Move,Resale,,,,Flat,7903.711133,Gurgaon
+4900000,1082,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,4528.650647,Noida
+5750000,1572,3,3,,Ready to Move,Resale,,,,Flat,3657.760814,Noida
+11500000,1478,2,2,3.0,Ready to Move,Resale,,,,Flat,7780.784844,Gurgaon
+4500000,1130,3,2,2.0,Ready to Move,New Property,,,2.0,Flat,3982.300885,Noida
+7800000,1250,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,6240.0,Ghaziabad
+4800000,1495,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,3210.702341,Ghaziabad
+4900000,1640,3,3,,Ready to Move,Resale,,,,Flat,2987.804878,Ghaziabad
+5500000,1220,2,2,3.0,Ready to Move,Resale,,,,Flat,4508.196721,Noida
+15000000,1350,3,3,2.0,Ready to Move,Resale,1.0,,,Flat,11111.11111,New Delhi
+5000000,1290,3,2,5.0,Ready to Move,Resale,,,2.0,Flat,3875.968992,Ghaziabad
+3500000,1000,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3500.0,Greater Noida
+6200000,1100,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,5636.363636,Faridabad
+9000000,1850,3,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4864.864865,Gurgaon
+7200000,1225,2,2,,Ready to Move,Resale,,,,Flat,5877.55102,Gurgaon
+3000000,750,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4000.0,Ghaziabad
+3200000,650,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,4923.076923,New Delhi
+12000000,1785,3,3,4.0,Ready to Move,Resale,2.0,,2.0,Flat,6722.689076,Gurgaon
+4250000,900,3,2,2.0,Ready to Move,Resale,,,,Flat,4722.222222,New Delhi
+44000000,3909,4,4,1.0,Ready to Move,Resale,2.0,,3.0,Flat,11256.07572,Gurgaon
+4800000,1245,3,2,2.0,Ready to Move,Resale,,,,Flat,3855.421687,Ghaziabad
+8500000,1690,3,3,,Ready to Move,Resale,,Unfurnished,,Individual House,5029.585799,Ghaziabad
+7000000,1500,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4666.666667,Greater Noida
+6000000,1300,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,4615.384615,Ghaziabad
+8500000,1650,3,3,3.0,,Resale,2.0,Unfurnished,,Individual House,5151.515152,Gurgaon
+11500000,1707,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,6736.965436,Gurgaon
+12500000,2525,4,4,,Ready to Move,Resale,,Semi-Furnished,,Flat,4950.49505,Greater Noida
+4300000,1405,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3060.498221,Ghaziabad
+3400000,900,2,2,2.0,Ready to Move,Resale,16.0,Semi-Furnished,2.0,Flat,3777.777778,Ghaziabad
+3700000,965,2,2,4.0,Ready to Move,Resale,,,2.0,Individual House,3834.196891,Noida
+8000000,1000,2,2,,Ready to Move,Resale,,,,Flat,8000.0,New Delhi
+3500000,700,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,5000.0,Ghaziabad
+13000000,2200,4,3,4.0,Ready to Move,Resale,1.0,,2.0,Flat,5909.090909,Gurgaon
+4000000,1000,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4000.0,New Delhi
+7100000,1295,2,2,4.0,Ready to Move,Resale,,,,Flat,5482.625483,Gurgaon
+7500000,1540,3,3,4.0,Ready to Move,Resale,1.0,Semi-Furnished,2.0,Flat,4870.12987,Ghaziabad
+4700000,970,2,2,,,Resale,,Semi-Furnished,,Flat,4845.360825,Ghaziabad
+5700000,1150,2,2,5.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4956.521739,Noida
+4500000,800,3,2,,,Resale,,Unfurnished,,Individual House,5625.0,Gurgaon
+6000000,1580,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3797.468354,Noida
+14500000,2250,4,3,,Ready to Move,Resale,,Unfurnished,,Flat,6444.444444,Ghaziabad
+6000000,985,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6091.370558,Ghaziabad
+8000000,1015,3,2,1.0,Ready to Move,New Property,,Furnished,,Individual House,7881.773399,New Delhi
+12000000,1983,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,6051.437216,Gurgaon
+4450000,1350,3,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,3296.296296,Ghaziabad
+4500000,1250,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3600.0,Ghaziabad
+7500000,1080,2,2,3.0,Ready to Move,Resale,,,,Flat,6944.444444,Ghaziabad
+6100000,1325,3,2,3.0,Ready to Move,Resale,,,3.0,Flat,4603.773585,Noida
+13500000,1600,3,3,,Ready to Move,Resale,,Unfurnished,,Individual House,8437.5,Gurgaon
+4850000,1075,2,2,,Ready to Move,Resale,,,,Flat,4511.627907,Greater Noida
+3900000,1106,2,2,3.0,Ready to Move,Resale,,,,Flat,3526.220615,Noida
+5800000,1020,3,2,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,5686.27451,New Delhi
+8000000,1093,2,2,,Ready to Move,Resale,,,,Flat,7319.304666,Gurgaon
+6000000,1050,2,2,2.0,Ready to Move,Resale,,,,Flat,5714.285714,Ghaziabad
+3000000,800,2,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,3750.0,Ghaziabad
+4700000,1040,2,2,3.0,Ready to Move,Resale,,,,Flat,4519.230769,Noida
+12000000,1700,3,3,3.0,Ready to Move,Resale,1.0,Furnished,1.0,Flat,7058.823529,Ghaziabad
+11100000,1507,2,2,2.0,Ready to Move,Resale,,,,Flat,7365.627074,Gurgaon
+11000000,1954,3,3,4.0,Ready to Move,New Property,2.0,Semi-Furnished,2.0,Flat,5629.477994,Gurgaon
+7000000,1425,3,3,,,Resale,,Unfurnished,,Flat,4912.280702,Noida
+7810000,1350,3,3,,Ready to Move,Resale,,,,Flat,5785.185185,Ghaziabad
+3500000,995,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3517.58794,Greater Noida
+11000000,1600,3,3,3.0,Ready to Move,Resale,,,,Individual House,6875.0,Noida
+4800000,1225,3,2,2.0,Ready to Move,Resale,1.0,,,Flat,3918.367347,Greater Noida
+4400000,1040,2,2,,Ready to Move,Resale,,,,Flat,4230.769231,Noida
+3800000,1075,2,2,3.0,Ready to Move,Resale,,,,Individual House,3534.883721,Faridabad
+4000000,975,2,2,3.0,Ready to Move,Resale,,,,Flat,4102.564103,Greater Noida
+2580000,645,3,2,2.0,,Resale,1050.0,Semi-Furnished,2.0,Flat,4000.0,Faridabad
+7130000,1100,2,2,,Ready to Move,Resale,,,,Flat,6481.818182,Noida
+5300000,1412,3,3,3.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,3753.541076,Noida
+10000000,1956,3,3,2.0,Ready to Move,Resale,,Unfurnished,,Flat,5112.474438,Gurgaon
+8500000,1440,3,3,3.0,Ready to Move,Resale,,,2.0,Flat,5902.777778,Noida
+13000000,2200,4,4,2.0,Ready to Move,New Property,2.0,,1.0,Flat,5909.090909,Gurgaon
+14000000,1845,3,3,3.0,,Resale,2.0,Semi-Furnished,2.0,Flat,7588.075881,Noida
+5800000,1200,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4833.333333,Ghaziabad
+3300000,600,2,2,,Ready to Move,Resale,,,,Flat,5500.0,Gurgaon
+3500000,600,2,2,,Ready to Move,Resale,100.0,,,Flat,5833.333333,Ghaziabad
+8000000,1593,3,3,3.0,Ready to Move,Resale,,,2.0,Flat,5021.971124,Ghaziabad
+12000000,1550,2,2,,Ready to Move,New Property,1.0,Semi-Furnished,2.0,Flat,7741.935484,Gurgaon
+8450000,1380,3,3,3.0,Ready to Move,Resale,1.0,,8.0,Flat,6123.188406,Noida
+7800000,1097,2,2,3.0,Ready to Move,New Property,,Unfurnished,,Flat,7110.30082,Gurgaon
+4800000,1225,3,2,,,Resale,,Unfurnished,,Flat,3918.367347,Greater Noida
+5000000,1195,2,2,3.0,Ready to Move,New Property,1.0,,,Flat,4184.100418,Greater Noida
+5000000,1080,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4629.62963,Greater Noida
+4400000,1164,2,2,3.0,Ready to Move,Resale,,,,Individual House,3780.068729,Greater Noida
+3400000,600,2,2,1.0,Ready to Move,New Property,,Semi-Furnished,,Flat,5666.666667,New Delhi
+9900000,1667,3,3,3.0,Ready to Move,Resale,1.0,,2.0,Flat,5938.812238,Ghaziabad
+7200000,2095,4,3,2.0,Ready to Move,Resale,2.0,,2.0,Flat,3436.754177,Faridabad
+4500000,1035,2,2,4.0,Ready to Move,Resale,1.0,,2.0,Flat,4347.826087,Noida
+17500000,2380,4,5,5.0,Ready to Move,New Property,,Semi-Furnished,,Individual House,7352.941176,Gurgaon
+4200000,620,2,2,1.0,Ready to Move,Resale,,,,Flat,6774.193548,Gurgaon
+5200000,1100,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,4727.272727,Ghaziabad
+8550000,1200,2,2,,Ready to Move,Resale,,,,Flat,7125.0,Gurgaon
+4800000,1550,3,3,3.0,Ready to Move,Resale,,,,Flat,3096.774194,Ghaziabad
+8600000,1560,3,2,5.0,Ready to Move,Resale,,,,Individual House,5512.820513,Noida
+5700000,1069,3,2,,Ready to Move,New Property,,Semi-Furnished,,Flat,5332.086062,New Delhi
+2600000,1025,3,2,,,Resale,1.0,Unfurnished,0.0,Flat,2536.585366,Faridabad
+5500000,1320,2,2,3.0,Ready to Move,Resale,,,,Flat,4166.666667,Gurgaon
+4000000,1050,3,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,1.0,Individual House,3809.52381,Noida
+6800000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,0.0,Flat,7555.555556,New Delhi
+9000000,950,2,2,,Ready to Move,Resale,1.0,Furnished,,Flat,9473.684211,New Delhi
+5200000,1050,2,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,4952.380952,Greater Noida
+3850000,920,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,4184.782609,Noida
+4100000,1262,2,2,,Ready to Move,Resale,,,,Flat,3248.81141,Faridabad
+5100000,1500,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,3400.0,Greater Noida
+25000000,1650,3,3,3.0,Ready to Move,Resale,3.0,Semi-Furnished,,Flat,15151.51515,New Delhi
+6500000,1750,3,2,3.0,Ready to Move,New Property,,,,Flat,3714.285714,Ghaziabad
+4280000,1070,2,2,2.0,Ready to Move,Resale,1.0,,,Flat,4000.0,Noida
+8200000,1435,3,2,3.0,Ready to Move,Resale,,,,Individual House,5714.285714,Noida
+32500000,6220,6,5,2.0,Ready to Move,Resale,1.0,Furnished,,Flat,5225.080386,Gurgaon
+8050000,1224,2,2,3.0,Ready to Move,Resale,,,,Flat,6576.797386,Ghaziabad
+2500000,800,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3125.0,Ghaziabad
+8400000,1985,4,4,4.0,Ready to Move,Resale,,,,Flat,4231.738035,Greater Noida
+5000000,1280,3,2,,Ready to Move,Resale,1.0,,,Flat,3906.25,Ghaziabad
+4600000,1335,2,2,4.0,Ready to Move,Resale,,,,Flat,3445.692884,Ghaziabad
+3200000,850,2,2,2.0,Ready to Move,Resale,3.0,Semi-Furnished,,Flat,3764.705882,Ghaziabad
+9000000,1350,2,2,2.0,,Resale,,Unfurnished,,Flat,6666.666667,Gurgaon
+8500000,1300,2,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,6538.461538,Gurgaon
+5000000,1600,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3125.0,Ghaziabad
+30000000,4644,4,4,3.0,Ready to Move,Resale,,Unfurnished,,Flat,6459.94832,Noida
+4500000,1272,2,2,4.0,Ready to Move,New Property,1.0,,3.0,Flat,3537.735849,Greater Noida
+5300000,1085,2,2,,Ready to Move,Resale,,,,Flat,4884.792627,Ghaziabad
+29500000,3030,3,4,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,9735.973597,New Delhi
+8000000,1800,3,2,2.0,Ready to Move,Resale,1.0,,1.0,Flat,4444.444444,Ghaziabad
+4400000,1100,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4000.0,Ghaziabad
+3900000,850,2,2,,Ready to Move,Resale,,Furnished,,Flat,4588.235294,Ghaziabad
+4520000,1080,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,4185.185185,Noida
+13500000,2433,4,4,3.0,Ready to Move,Resale,,,,Flat,5548.705302,Gurgaon
+4000000,1152,2,2,2.0,Ready to Move,Resale,6.0,,4.0,Individual House,3472.222222,Greater Noida
+4300000,1120,2,2,1.0,Ready to Move,Resale,,,,Flat,3839.285714,Faridabad
+9500000,1507,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,6303.915063,Gurgaon
+3600000,850,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4235.294118,Gurgaon
+5100000,1195,2,2,2.0,Ready to Move,Resale,,,,Flat,4267.782427,Noida
+4200000,700,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,0.0,Flat,6000.0,Ghaziabad
+4500000,1100,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4090.909091,Ghaziabad
+7600000,1900,4,4,4.0,Ready to Move,Resale,,,,Individual House,4000.0,Faridabad
+6680000,1345,3,2,,Ready to Move,Resale,,,,Flat,4966.542751,Noida
+3000000,918,2,2,2.0,Ready to Move,Resale,1.0,,,Individual House,3267.973856,Ghaziabad
+3500000,600,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5833.333333,Gurgaon
+27500000,2000,3,3,3.0,Ready to Move,Resale,,Furnished,,Flat,13750.0,New Delhi
+3900000,800,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4875.0,Ghaziabad
+7500000,1880,3,3,,Ready to Move,Resale,,,,Flat,3989.361702,Greater Noida
+5000000,1550,3,3,4.0,Ready to Move,Resale,2.0,,2.0,Flat,3225.806452,Ghaziabad
+35000000,7000,6,5,3.0,Ready to Move,Resale,,Furnished,,Individual House,5000.0,New Delhi
+3800000,1050,2,2,3.0,Ready to Move,Resale,1.0,Furnished,,Flat,3619.047619,Greater Noida
+5300000,1400,3,3,3.0,Ready to Move,Resale,1.0,,2.0,Flat,3785.714286,Noida
+4700000,1085,2,2,2.0,Ready to Move,Resale,,,,Flat,4331.797235,Ghaziabad
+6500000,1200,2,2,,Ready to Move,Resale,,,,Flat,5416.666667,Ghaziabad
+5000000,1285,2,2,4.0,Ready to Move,Resale,,Unfurnished,,Flat,3891.050584,Greater Noida
+4000000,1200,2,2,2.0,Ready to Move,Resale,,,,Flat,3333.333333,Noida
+18500000,1430,3,3,2.0,Ready to Move,Resale,1.0,,2.0,Individual House,12937.06294,Gurgaon
+3800000,1005,2,2,1.0,Ready to Move,Resale,,,2.0,Individual House,3781.094527,Greater Noida
+4800000,1175,2,2,,Ready to Move,Resale,,,,Flat,4085.106383,Noida
+3500000,1125,3,2,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3111.111111,Ghaziabad
+6850000,1342,2,2,,Ready to Move,Resale,,,,Flat,5104.321908,Gurgaon
+17200000,1800,3,3,4.0,Ready to Move,Resale,,,,Flat,9555.555556,New Delhi
+2550000,840,2,2,,,Resale,,Semi-Furnished,,Flat,3035.714286,Ghaziabad
+2460000,900,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,2733.333333,Ghaziabad
+3000000,850,2,2,2.0,Ready to Move,Resale,,,,Flat,3529.411765,Ghaziabad
+6500000,1438,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,4520.166898,Noida
+3700000,890,2,2,,Ready to Move,Resale,194.0,,4.0,Flat,4157.303371,Greater Noida
+4700000,1170,3,2,4.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4017.094017,Greater Noida
+3500000,850,2,2,,Ready to Move,Resale,,,,Individual House,4117.647059,Ghaziabad
+5500000,1400,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,3928.571429,Faridabad
+6000000,1350,3,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,4444.444444,Ghaziabad
+5000000,1020,2,2,,Ready to Move,Resale,,,,Flat,4901.960784,Noida
+8040000,1760,3,3,3.0,Ready to Move,Resale,,,,Individual House,4568.181818,Gurgaon
+3900000,850,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4588.235294,Ghaziabad
+4000000,700,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,5714.285714,Gurgaon
+9900000,1883,4,3,2.0,Ready to Move,Resale,,,,Individual House,5257.567711,Ghaziabad
+3960000,1000,2,2,,Ready to Move,Resale,,,,Individual House,3960.0,Greater Noida
+8820000,1650,3,3,,Ready to Move,Resale,,,,Flat,5345.454545,Greater Noida
+3500000,595,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,5882.352941,New Delhi
+7500000,1295,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5791.505792,Noida
+4900000,1330,3,2,3.0,Ready to Move,Resale,1.0,,4.0,Flat,3684.210526,Noida
+5000000,1100,3,2,1.0,Ready to Move,Resale,,,0.0,Flat,4545.454545,Ghaziabad
+7500000,1365,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5494.505495,Gurgaon
+4270000,1265,3,2,,Ready to Move,Resale,,,,Flat,3375.494071,Ghaziabad
+3000000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,3333.333333,Ghaziabad
+8000000,1000,8,6,,Ready to Move,Resale,,Unfurnished,,Flat,8000.0,Gurgaon
+8500000,1200,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,7083.333333,New Delhi
+2500000,900,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,2777.777778,Ghaziabad
+8300000,1000,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,8300.0,New Delhi
+23400000,2910,3,4,4.0,Ready to Move,Resale,,,,Flat,8041.237113,Gurgaon
+4800000,1600,3,3,,Ready to Move,Resale,,Furnished,,Individual House,3000.0,Ghaziabad
+2900000,985,2,2,2.0,Ready to Move,Resale,,,,Flat,2944.162437,Ghaziabad
+4000000,720,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5555.555556,Gurgaon
+3500000,890,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,3932.58427,Ghaziabad
+24000000,2750,4,4,,Ready to Move,Resale,,Furnished,,Flat,8727.272727,Gurgaon
+2600000,950,2,2,2.0,Ready to Move,Resale,,,,Individual House,2736.842105,Greater Noida
+10000000,1500,3,3,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,6666.666667,New Delhi
+5650000,1459,3,3,,,Resale,,Unfurnished,,Flat,3872.515422,Greater Noida
+12000000,1600,4,4,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,7500.0,New Delhi
+6600000,1150,2,2,2.0,Ready to Move,Resale,1.0,,,Flat,5739.130435,Faridabad
+8000000,1350,7,3,,Ready to Move,Resale,,Unfurnished,,Flat,5925.925926,Ghaziabad
+3300000,800,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,4125.0,Gurgaon
+14000000,3000,3,3,2.0,Ready to Move,New Property,,Furnished,,Flat,4666.666667,Faridabad
+2000000,720,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,2777.777778,Ghaziabad
+5800000,930,2,2,,Ready to Move,Resale,1.0,Unfurnished,,Flat,6236.55914,Ghaziabad
+14000000,1970,4,4,,Ready to Move,Resale,,Semi-Furnished,,Flat,7106.598985,Ghaziabad
+8700000,900,2,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,9666.666667,New Delhi
+3400000,896,2,2,,Ready to Move,Resale,,,,Individual House,3794.642857,Noida
+8000000,1457,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5490.734386,Gurgaon
+7500000,1304,2,2,,Ready to Move,Resale,,,,Flat,5751.533742,Ghaziabad
+3600000,1027,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,3505.355404,Ghaziabad
+6500000,1050,2,2,1.0,Ready to Move,Resale,1.0,,0.0,Individual House,6190.47619,Gurgaon
+31000000,3500,4,4,,Ready to Move,Resale,,Unfurnished,,Individual House,8857.142857,Gurgaon
+4200000,1194,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,3517.58794,Ghaziabad
+4500000,1055,2,2,2.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,4265.402844,Noida
+2500000,940,2,2,2.0,Ready to Move,Resale,,,,Individual House,2659.574468,Ghaziabad
+22000000,2835,4,5,4.0,,Resale,2.0,Unfurnished,,Individual House,7760.141093,Greater Noida
+3600000,501,2,2,,Ready to Move,Resale,,,,Flat,7185.628743,Gurgaon
+5700000,1400,3,3,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4071.428571,Ghaziabad
+12500000,1955,3,3,3.0,,New Property,1.0,Unfurnished,2.0,Flat,6393.861893,Gurgaon
+5200000,1350,2,2,2.0,Ready to Move,Resale,,,,Flat,3851.851852,Ghaziabad
+5300000,1555,3,2,,Ready to Move,Resale,,,,Flat,3408.360129,Greater Noida
+2400000,623,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,3852.327448,Ghaziabad
+11000000,1700,3,3,,,Resale,,Unfurnished,,Flat,6470.588235,Gurgaon
+11000000,2300,4,4,5.0,Ready to Move,New Property,,,,Individual House,4782.608696,Ghaziabad
+4600000,1380,3,3,,Ready to Move,Resale,1.0,Unfurnished,,Flat,3333.333333,Ghaziabad
+25000000,4500,6,6,,Ready to Move,Resale,2.0,Furnished,,Flat,5555.555556,Greater Noida
+3800000,1066,3,3,3.0,Ready to Move,Resale,,Unfurnished,,Flat,3564.727955,Faridabad
+4500000,1106,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,4068.716094,Greater Noida
+3500000,900,2,2,,Ready to Move,Resale,1.0,,4.0,Flat,3888.888889,Greater Noida
+6000000,1345,2,2,,,Resale,,Unfurnished,,Flat,4460.966543,Gurgaon
+3000000,785,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3821.656051,Ghaziabad
+5200000,1035,2,2,4.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,5024.154589,Noida
+3300000,596,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,5536.912752,New Delhi
+5600000,929,2,2,1.0,Ready to Move,Resale,,,,Flat,6027.987083,Gurgaon
+4200000,1175,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3574.468085,Greater Noida
+3600000,855,3,2,2.0,Ready to Move,New Property,2.0,Furnished,,Flat,4210.526316,New Delhi
+12500000,1700,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,7352.941176,New Delhi
+9300000,1850,3,3,3.0,Ready to Move,Resale,2.0,,2.0,Flat,5027.027027,Faridabad
+6600000,1737,3,3,,Ready to Move,Resale,,,,Individual House,3799.654577,Greater Noida
+19900000,2845,4,6,5.0,Ready to Move,Resale,,,,Flat,6994.727592,Gurgaon
+7500000,1330,2,2,3.0,Ready to Move,Resale,,,,Flat,5639.097744,Gurgaon
+12500000,2000,4,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,6250.0,Ghaziabad
+13200000,1845,3,4,5.0,Ready to Move,Resale,2.0,,2.0,Individual House,7154.471545,Noida
+15000000,1890,4,4,4.0,Ready to Move,Resale,3.0,Furnished,1.0,Individual House,7936.507937,New Delhi
+3300000,1050,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,3142.857143,Greater Noida
+3500000,900,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,3888.888889,Ghaziabad
+4500000,1150,2,2,3.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,3913.043478,Noida
+12000000,1880,3,3,3.0,Ready to Move,Resale,1.0,,,Flat,6382.978723,Gurgaon
+7000000,900,3,3,2.0,,Resale,1.0,Semi-Furnished,,Flat,7777.777778,Gurgaon
+2500000,700,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,3571.428571,New Delhi
+4500000,960,2,2,1.0,Ready to Move,Resale,1.0,,,Flat,4687.5,Ghaziabad
+4200000,1350,2,3,2.0,,New Property,,Semi-Furnished,,Flat,3111.111111,Greater Noida
+6300000,1350,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4666.666667,Ghaziabad
+10000000,1000,2,2,1.0,Ready to Move,Resale,,,,Flat,10000.0,New Delhi
+4000000,650,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,6153.846154,Gurgaon
+3800000,1050,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3619.047619,Greater Noida
+4450000,1175,3,2,3.0,,Resale,,Semi-Furnished,,Flat,3787.234043,Greater Noida
+49000000,6168,5,5,3.0,Ready to Move,Resale,3.0,Semi-Furnished,,Flat,7944.228275,Greater Noida
+6500000,1225,3,2,,,Resale,,Semi-Furnished,,Individual House,5306.122449,Gurgaon
+42000000,4600,4,5,4.0,Ready to Move,Resale,,Semi-Furnished,,Flat,9130.434783,Gurgaon
+5000000,1225,3,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,4081.632653,Greater Noida
+5200000,1250,3,3,1.0,Ready to Move,Resale,1.0,Furnished,,Flat,4160.0,Ghaziabad
+5000000,1200,3,2,3.0,Ready to Move,Resale,,Unfurnished,,Flat,4166.666667,Noida
+3500000,1000,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3500.0,Ghaziabad
+6500000,720,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,9027.777778,Gurgaon
+15000000,2230,4,4,,Ready to Move,Resale,2.0,,4.0,Individual House,6726.457399,Gurgaon
+7800000,1295,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6023.166023,Gurgaon
+15000000,1500,3,2,2.0,Ready to Move,Resale,,,,Flat,10000.0,New Delhi
+13800000,2400,4,4,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,5750.0,Gurgaon
+4350000,1205,2,2,3.0,Ready to Move,Resale,,Furnished,,Flat,3609.958506,Greater Noida
+9500000,1050,2,2,2.0,Ready to Move,Resale,1.0,,0.0,Flat,9047.619048,New Delhi
+70000000,2700,4,4,2.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,25925.92593,New Delhi
+7590000,880,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8625.0,New Delhi
+5900000,1265,2,2,,Ready to Move,Resale,,,,Individual House,4664.031621,Ghaziabad
+12500000,1800,3,4,,Ready to Move,Resale,,Furnished,,Flat,6944.444444,Gurgaon
+6500000,1175,2,2,1.0,Ready to Move,Resale,,,,Individual House,5531.914894,Ghaziabad
+4500000,1350,2,2,4.0,Ready to Move,Resale,1.0,,3.0,Individual House,3333.333333,Noida
+6500000,1257,2,2,4.0,Ready to Move,Resale,,,,Flat,5171.042164,Gurgaon
+6000000,1050,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5714.285714,Ghaziabad
+5000000,1400,3,2,,Ready to Move,Resale,,,,Individual House,3571.428571,Ghaziabad
+6500000,1375,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,4727.272727,Ghaziabad
+6400000,1390,3,3,3.0,Ready to Move,Resale,,,,Flat,4604.316547,Noida
+8500000,1495,3,2,,Ready to Move,Resale,,,,Flat,5685.618729,Noida
+3200000,835,3,2,2.0,Ready to Move,Resale,,,,Flat,3832.335329,Ghaziabad
+13000000,1300,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,10000.0,New Delhi
+4200000,720,2,2,,,Resale,,Semi-Furnished,,Individual House,5833.333333,Gurgaon
+5500000,900,2,2,1.0,Ready to Move,Resale,,,,Flat,6111.111111,Gurgaon
+8500000,1780,3,3,,Ready to Move,Resale,,,,Flat,4775.280899,Ghaziabad
+6500000,1250,3,2,,Ready to Move,Resale,,Furnished,,Flat,5200.0,Ghaziabad
+15000000,2500,4,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,6000.0,Noida
+4200000,1290,2,2,4.0,Ready to Move,Resale,,,,Flat,3255.813953,Ghaziabad
+2900000,835,2,2,3.0,Ready to Move,Resale,,Unfurnished,,Flat,3473.053892,Greater Noida
+3700000,1100,2,2,3.0,Ready to Move,Resale,,,,Flat,3363.636364,Ghaziabad
+17500000,2100,3,3,2.0,Ready to Move,New Property,,Semi-Furnished,,Individual House,8333.333333,Gurgaon
+5600000,1405,3,2,,Ready to Move,Resale,,,,Flat,3985.765125,Ghaziabad
+32500000,3800,4,4,2.0,Ready to Move,New Property,2.0,,1.0,Flat,8552.631579,Gurgaon
+15000000,1530,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,9803.921569,New Delhi
+9800000,1150,3,2,2.0,Ready to Move,Resale,1.0,,,Flat,8521.73913,New Delhi
+3600000,1250,3,3,,Ready to Move,Resale,,,,Flat,2880.0,Ghaziabad
+4400000,1045,2,2,,Ready to Move,Resale,,,,Flat,4210.526316,Noida
+9000000,1810,4,3,4.0,Ready to Move,Resale,,,,Flat,4972.375691,Greater Noida
+6300000,1350,3,3,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4666.666667,Ghaziabad
+8700000,1585,3,3,3.0,Ready to Move,Resale,,,,Flat,5488.958991,Ghaziabad
+7000000,1350,2,2,3.0,Ready to Move,Resale,,,,Flat,5185.185185,Greater Noida
+9000000,1650,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,5454.545455,Noida
+7000000,1600,3,4,3.0,Ready to Move,Resale,,Unfurnished,,Flat,4375.0,Gurgaon
+5900000,1150,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,5130.434783,Ghaziabad
+8000000,1093,2,2,2.0,Ready to Move,New Property,,,,Flat,7319.304666,Gurgaon
+3600000,1242,2,2,,Ready to Move,Resale,,,,Flat,2898.550725,Faridabad
+11500000,1510,3,3,2.0,Ready to Move,New Property,2.0,Semi-Furnished,1.0,Flat,7615.89404,Gurgaon
+6500000,1150,2,3,3.0,Ready to Move,Resale,1.0,,4.0,Flat,5652.173913,Noida
+4990000,1050,3,2,2.0,Ready to Move,Resale,2.0,Furnished,1.0,Flat,4752.380952,New Delhi
+8000000,1000,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8000.0,Ghaziabad
+5600000,1264,2,2,3.0,,New Property,,Unfurnished,,Individual House,4430.379747,Gurgaon
+3500000,750,2,2,,Ready to Move,Resale,1.0,Furnished,0.0,Flat,4666.666667,New Delhi
+4990000,910,3,2,,Ready to Move,Resale,8.0,,1.0,Individual House,5483.516484,New Delhi
+35500000,5500,4,4,,Ready to Move,New Property,,Semi-Furnished,,Flat,6454.545455,Gurgaon
+6000000,1000,2,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,6000.0,Ghaziabad
+3200000,850,2,2,1.0,Ready to Move,Resale,,Furnished,,Flat,3764.705882,Ghaziabad
+13500000,2150,3,3,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,6279.069767,Gurgaon
+4000000,990,2,2,2.0,Ready to Move,Resale,,,,Flat,4040.40404,Ghaziabad
+10500000,1200,2,2,3.0,Ready to Move,Resale,4.0,,0.0,Flat,8750.0,New Delhi
+6000000,1100,3,2,2.0,Ready to Move,Resale,1.0,Furnished,,Flat,5454.545455,New Delhi
+5200000,1200,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4333.333333,Faridabad
+12700000,1750,3,3,,Ready to Move,Resale,,Furnished,,Flat,7257.142857,Gurgaon
+3500000,850,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4117.647059,Greater Noida
+10500000,900,2,2,1.0,Ready to Move,Resale,1.0,Furnished,0.0,Flat,11666.66667,New Delhi
+4600000,1245,3,2,3.0,Ready to Move,Resale,,,,Flat,3694.779116,Greater Noida
+15500000,2350,3,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,6595.744681,Gurgaon
+5000000,900,5,2,,Ready to Move,Resale,1.0,Unfurnished,,Flat,5555.555556,New Delhi
+2500000,675,2,2,2.0,Ready to Move,Resale,,,,Individual House,3703.703704,Ghaziabad
+4200000,758,3,2,1.0,Ready to Move,New Property,,Semi-Furnished,,Individual House,5540.897098,New Delhi
+17000000,2061,3,4,3.0,Ready to Move,Resale,,,,Flat,8248.423096,Gurgaon
+10000000,1550,3,3,3.0,Ready to Move,Resale,1.0,,0.0,Individual House,6451.612903,Gurgaon
+4150000,950,2,2,2.0,Ready to Move,Resale,,,,Flat,4368.421053,Noida
+4500000,990,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4545.454545,Noida
+5500000,1090,2,2,1.0,Ready to Move,Resale,1.0,,2.0,Flat,5045.87156,Ghaziabad
+5500000,1000,2,2,2.0,Ready to Move,Resale,1.0,Furnished,,Flat,5500.0,Ghaziabad
+3300000,960,2,2,1.0,Ready to Move,Resale,,,1.0,Flat,3437.5,Greater Noida
+6600000,1080,2,2,3.0,Ready to Move,Resale,1.0,,3.0,Flat,6111.111111,Ghaziabad
+4500000,995,2,2,2.0,Ready to Move,New Property,,Unfurnished,,Flat,4522.613065,Greater Noida
+2600000,520,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,1.0,Individual House,5000.0,New Delhi
+2500000,880,2,2,1.0,Ready to Move,Resale,,,,Flat,2840.909091,Ghaziabad
+5400000,1175,2,2,,Ready to Move,Resale,,,,Flat,4595.744681,Greater Noida
+4500000,950,2,2,,Ready to Move,Resale,,,,Individual House,4736.842105,Ghaziabad
+7200000,1603,3,3,3.0,Ready to Move,Resale,1.0,,3.0,Individual House,4491.578291,Gurgaon
+32000000,3500,5,5,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,9142.857143,Noida
+9800000,1880,3,3,,Ready to Move,Resale,,Semi-Furnished,,Individual House,5212.765957,Gurgaon
+9500000,1952,3,4,4.0,Ready to Move,Resale,1.0,,3.0,Individual House,4866.803279,Gurgaon
+4600000,1080,2,2,2.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,4259.259259,Greater Noida
+10400000,2160,3,4,3.0,Ready to Move,Resale,1.0,,2.0,Individual House,4814.814815,Gurgaon
+6000000,1100,2,2,1.0,Ready to Move,Resale,,Furnished,,Flat,5454.545455,New Delhi
+2850000,850,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3352.941176,Ghaziabad
+8000000,1430,3,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,5594.405594,Gurgaon
+10500000,1590,3,3,3.0,Ready to Move,New Property,5.0,,,Flat,6603.773585,Gurgaon
+16500000,1600,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,10312.5,Gurgaon
+10000000,1921,3,3,,Ready to Move,Resale,,,,Individual House,5205.622072,Gurgaon
+4000000,910,3,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4395.604396,New Delhi
+8900000,900,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,9888.888889,New Delhi
+8350000,1398,2,2,2.0,Ready to Move,Resale,1.0,,3.0,Flat,5972.818312,Noida
+5500000,1450,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,3793.103448,Faridabad
+5000000,1081,3,2,3.0,,Resale,,Semi-Furnished,,Flat,4625.346901,Gurgaon
+6700000,1830,3,3,4.0,Ready to Move,Resale,,,,Flat,3661.202186,Greater Noida
+4900000,1290,3,2,3.0,Ready to Move,Resale,,,,Individual House,3798.449612,Greater Noida
+3200000,1050,2,2,1.0,Ready to Move,Resale,,,,Individual House,3047.619048,Ghaziabad
+33000000,3699,4,4,3.0,Ready to Move,New Property,2.0,,3.0,Individual House,8921.330089,Gurgaon
+8200000,1650,3,2,3.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,4969.69697,Ghaziabad
+3800000,1035,2,2,,,Resale,,Unfurnished,,Flat,3671.497585,Greater Noida
+6000000,1487,3,3,,Ready to Move,Resale,,Unfurnished,,Individual House,4034.969738,Ghaziabad
+4800000,1157,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4148.660328,Ghaziabad
+4900000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5444.444444,Ghaziabad
+6000000,1470,3,3,2.0,Ready to Move,Resale,1.0,,2.0,Flat,4081.632653,Ghaziabad
+3200000,870,2,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,3678.16092,Ghaziabad
+3800000,980,2,2,1.0,Ready to Move,Resale,1.0,,,Flat,3877.55102,Noida
+4900000,1155,2,2,3.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,4242.424242,Noida
+7500000,1800,4,3,,Ready to Move,New Property,1.0,,0.0,Flat,4166.666667,Ghaziabad
+8600000,1500,3,2,3.0,Ready to Move,New Property,,,,Flat,5733.333333,Faridabad
+3850000,1060,2,2,,Ready to Move,Resale,,,,Individual House,3632.075472,Noida
+14900000,1100,2,2,2.0,Ready to Move,Resale,,,,Flat,13545.45455,New Delhi
+4200000,1510,3,3,3.0,Ready to Move,Resale,,,,Flat,2781.456954,Ghaziabad
+3200000,850,2,2,,,Resale,,Semi-Furnished,,Flat,3764.705882,Ghaziabad
+6000000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6666.666667,Noida
+25000000,2000,3,3,,Ready to Move,Resale,,Semi-Furnished,,Individual House,12500.0,Gurgaon
+4300000,1270,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3385.826772,Greater Noida
+2650000,540,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,4907.407407,New Delhi
+12000000,1720,3,3,1.0,Ready to Move,Resale,,,,Individual House,6976.744186,Gurgaon
+5440000,1400,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3885.714286,Ghaziabad
+8400000,1430,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,5874.125874,Gurgaon
+3800000,650,2,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,5846.153846,Faridabad
+10000000,1000,6,6,2.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,10000.0,Gurgaon
+6800000,1450,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4689.655172,Faridabad
+3900000,1025,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,3804.878049,Greater Noida
+4150000,1200,2,2,,,Resale,,Semi-Furnished,,Flat,3458.333333,Greater Noida
+8100000,1664,3,3,4.0,Ready to Move,Resale,1.0,,3.0,Flat,4867.788462,Noida
+2850000,825,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,3454.545455,Ghaziabad
+5000000,1300,3,3,,Ready to Move,Resale,,,,Flat,3846.153846,Greater Noida
+7000000,1498,2,2,2.0,Ready to Move,Resale,3.0,,4.0,Flat,4672.897196,Gurgaon
+3200000,650,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4923.076923,New Delhi
+3700000,1240,2,2,3.0,Ready to Move,Resale,,,,Flat,2983.870968,Faridabad
+3190000,1000,2,2,,Ready to Move,Resale,,,,Flat,3190.0,Ghaziabad
+3100000,1000,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3100.0,Greater Noida
+6500000,1000,3,2,,Ready to Move,Resale,,Furnished,,Flat,6500.0,New Delhi
+6500000,900,7,2,1.0,Ready to Move,Resale,,Unfurnished,,Individual House,7222.222222,Ghaziabad
+8500000,1761,3,3,3.0,Ready to Move,New Property,,,,Flat,4826.802953,Ghaziabad
+6200000,1300,3,3,3.0,Ready to Move,Resale,,,,Flat,4769.230769,Noida
+4900000,1348,2,2,4.0,Ready to Move,Resale,,,,Individual House,3635.014837,Gurgaon
+14000000,2000,4,4,1.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,7000.0,Ghaziabad
+18000000,2400,4,5,2.0,Ready to Move,Resale,,,1.0,Flat,7500.0,Gurgaon
+7000000,1390,3,2,3.0,Ready to Move,Resale,,,,Flat,5035.971223,Greater Noida
+3100000,955,2,2,,,Resale,,Unfurnished,,Flat,3246.073298,Ghaziabad
+4100000,1164,2,2,3.0,Ready to Move,Resale,,,,Flat,3522.33677,Greater Noida
+5500000,1375,3,3,3.0,Ready to Move,Resale,,,,Flat,4000.0,Noida
+10800000,1050,2,2,2.0,Ready to Move,Resale,,,,Flat,10285.71429,New Delhi
+8800000,1691,3,4,3.0,Ready to Move,Resale,,,,Flat,5204.021289,Noida
+5900000,1576,3,2,3.0,Ready to Move,Resale,,,,Flat,3743.654822,Faridabad
+10000000,1000,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,10000.0,New Delhi
+7000000,1400,3,2,1.0,Ready to Move,Resale,,,,Flat,5000.0,Faridabad
+7460000,1446,3,2,,Ready to Move,Resale,,,,Flat,5159.059474,Noida
+3200000,850,2,2,2.0,Ready to Move,Resale,,,,Flat,3764.705882,Greater Noida
+4900000,825,2,2,1.0,Ready to Move,Resale,1.0,Furnished,0.0,Individual House,5939.393939,Ghaziabad
+4250000,1114,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,3815.08079,Greater Noida
+16000000,2000,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8000.0,Gurgaon
+19500000,2600,4,4,,,Resale,,Semi-Furnished,,Flat,7500.0,Gurgaon
+17500000,2650,5,5,3.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,6603.773585,Gurgaon
+8000000,1093,3,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,7319.304666,Gurgaon
+3500000,1005,2,2,,Ready to Move,Resale,,,,Flat,3482.587065,Greater Noida
+6200000,1710,3,3,3.0,Ready to Move,Resale,1.0,Unfurnished,,Individual House,3625.730994,Noida
+4800000,1180,3,2,2.0,,New Property,,Unfurnished,,Flat,4067.79661,Faridabad
+9600000,1798,3,3,4.0,Ready to Move,Resale,,,,Flat,5339.265851,Ghaziabad
+15500000,2000,3,4,3.0,Ready to Move,Resale,,,,Individual House,7750.0,Gurgaon
+15000000,2500,4,2,,Ready to Move,Resale,,Unfurnished,,Individual House,6000.0,Ghaziabad
+8000000,1803,3,3,2.0,Ready to Move,Resale,,,,Flat,4437.049362,Gurgaon
+12500000,1940,3,4,4.0,Ready to Move,Resale,1.0,,2.0,Flat,6443.298969,Noida
+11000000,1789,3,3,,,Resale,,Unfurnished,,Flat,6148.686417,Gurgaon
+8000000,2000,3,3,,Ready to Move,Resale,1.0,Unfurnished,,Flat,4000.0,Greater Noida
+3800000,1267,3,2,3.0,Ready to Move,Resale,,,,Flat,2999.210734,Noida
+4600000,1225,2,2,4.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,3755.102041,Greater Noida
+7000000,1250,3,2,2.0,Ready to Move,Resale,,Furnished,,Flat,5600.0,New Delhi
+5300000,1000,3,3,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5300.0,Gurgaon
+6500000,1317,3,3,,Ready to Move,Resale,,,,Flat,4935.459377,Greater Noida
+5660000,1300,3,3,3.0,,New Property,1.0,Semi-Furnished,4.0,Individual House,4353.846154,Noida
+9700000,2000,5,5,5.0,Ready to Move,Resale,1.0,,,Flat,4850.0,Ghaziabad
+13500000,2000,3,3,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,6750.0,Gurgaon
+4500000,1200,3,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,3750.0,Ghaziabad
+7500000,1950,3,2,3.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,3846.153846,Ghaziabad
+3800000,1105,2,2,3.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,3438.914027,Greater Noida
+8500000,950,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,8947.368421,New Delhi
+8400000,1765,2,3,3.0,Ready to Move,Resale,1.0,,2.0,Flat,4759.206799,Gurgaon
+10500000,2085,3,4,4.0,,Resale,1.0,Semi-Furnished,2.0,Flat,5035.971223,Ghaziabad
+3100000,975,2,2,3.0,Ready to Move,Resale,1.0,,3.0,Flat,3179.487179,Greater Noida
+3800000,900,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4222.222222,New Delhi
+5500000,1000,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5500.0,New Delhi
+4300000,800,2,2,1.0,Ready to Move,Resale,,,,Flat,5375.0,Ghaziabad
+11400000,1830,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,6229.508197,Gurgaon
+4500000,1200,3,2,,Ready to Move,Resale,,Furnished,,Flat,3750.0,Faridabad
+7000000,1500,3,2,4.0,,Resale,54.0,Unfurnished,3.0,Flat,4666.666667,Greater Noida
+7500000,1250,3,2,4.0,Ready to Move,Resale,,,,Individual House,6000.0,Noida
+4500000,1107,2,2,4.0,Ready to Move,Resale,,,,Individual House,4065.04065,Noida
+4600000,846,2,2,1.0,Ready to Move,New Property,,Semi-Furnished,,Individual House,5437.352246,Gurgaon
+5300000,1205,2,2,,Ready to Move,Resale,,,,Flat,4398.340249,Greater Noida
+19000000,1800,3,3,1.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,10555.55556,New Delhi
+6900000,1950,4,3,4.0,Ready to Move,Resale,,,,Flat,3538.461538,Greater Noida
+8000000,2100,3,2,,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Individual House,3809.52381,Faridabad
+10000000,1795,3,3,4.0,Ready to Move,Resale,,,,Flat,5571.030641,Ghaziabad
+15000000,1350,3,2,2.0,Ready to Move,Resale,1.0,,,Flat,11111.11111,New Delhi
+4500000,1350,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3333.333333,Ghaziabad
+27500000,3000,4,3,2.0,Ready to Move,Resale,,,,Flat,9166.666667,New Delhi
+6200000,1500,3,3,,Ready to Move,Resale,,,,Flat,4133.333333,Greater Noida
+4230000,1248,2,2,2.0,Ready to Move,Resale,,,,Flat,3389.423077,Faridabad
+11000000,1800,4,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,6111.111111,Ghaziabad
+3300000,1000,2,2,2.0,Ready to Move,Resale,3.0,Semi-Furnished,0.0,Flat,3300.0,Ghaziabad
+7300000,800,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Individual House,9125.0,New Delhi
+4600000,1375,3,3,3.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,3345.454545,Ghaziabad
+3700000,845,2,2,3.0,Ready to Move,Resale,,,3.0,Flat,4378.698225,Greater Noida
+5400000,1110,3,2,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4864.864865,Greater Noida
+4600000,1120,3,3,,Ready to Move,Resale,,Furnished,,Individual House,4107.142857,Greater Noida
+10000000,1530,3,3,2.0,Ready to Move,Resale,1.0,,2.0,Flat,6535.947712,Noida
+12000000,1640,3,2,3.0,Ready to Move,Resale,,,,Flat,7317.073171,Gurgaon
+19000000,3500,4,4,3.0,Ready to Move,New Property,,Semi-Furnished,,Flat,5428.571429,Faridabad
+6000000,1150,2,2,,Ready to Move,Resale,1.0,,,Flat,5217.391304,Noida
+4890000,1175,2,2,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4161.702128,Greater Noida
+3250000,1050,2,2,2.0,Ready to Move,Resale,,,,Individual House,3095.238095,Ghaziabad
+7750000,1675,3,3,3.0,Ready to Move,Resale,,,,Individual House,4626.865672,Gurgaon
+10100000,1456,3,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,6936.813187,Gurgaon
+4000000,1165,3,3,4.0,Ready to Move,Resale,,,,Flat,3433.476395,Greater Noida
+34900000,5840,5,5,5.0,Ready to Move,New Property,,Semi-Furnished,,Flat,5976.027397,Gurgaon
+3320000,765,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4339.869281,Ghaziabad
+16500000,2400,3,3,2.0,Ready to Move,Resale,,Unfurnished,,Flat,6875.0,Gurgaon
+2750000,890,2,2,,Ready to Move,Resale,,,,Flat,3089.88764,Noida
+21500000,2400,4,4,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,8958.333333,Gurgaon
+3500000,1106,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3164.556962,Noida
+8000000,1775,4,3,,Ready to Move,Resale,,,,Flat,4507.042254,Ghaziabad
+12600000,1999,3,3,,Ready to Move,Resale,,,,Flat,6303.151576,Gurgaon
+22000000,1800,3,3,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,12222.22222,New Delhi
+5200000,1130,2,2,2.0,Ready to Move,Resale,2.0,,,Individual House,4601.769912,Noida
+4240000,800,2,2,,Ready to Move,Resale,,Furnished,,Flat,5300.0,Ghaziabad
+2720000,600,2,2,,Ready to Move,Resale,,,,Flat,4533.333333,Noida
+8000000,1740,3,3,,Ready to Move,Resale,,,,Flat,4597.701149,Ghaziabad
+3500000,1041,2,2,,Ready to Move,Resale,,Furnished,,Individual House,3362.151777,Ghaziabad
+3500000,850,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4117.647059,Noida
+3700000,1115,2,2,,Ready to Move,Resale,,,,Flat,3318.38565,Greater Noida
+3500000,700,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Individual House,5000.0,New Delhi
+7500000,1408,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Individual House,5326.704545,Gurgaon
+18000000,1400,3,2,2.0,Ready to Move,Resale,,,,Individual House,12857.14286,New Delhi
+3300000,975,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,3384.615385,Ghaziabad
+12300000,1300,3,3,3.0,Ready to Move,Resale,2.0,,1.0,Flat,9461.538462,Gurgaon
+74500000,6750,4,4,4.0,Ready to Move,Resale,3.0,,4.0,Flat,11037.03704,Gurgaon
+5000000,1265,3,2,2.0,Ready to Move,Resale,,,,Flat,3952.56917,Greater Noida
+6700000,1170,3,2,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,5726.495726,Gurgaon
+7800000,1295,2,2,4.0,Ready to Move,Resale,,,2.0,Flat,6023.166023,Gurgaon
+6800000,1300,3,3,1.0,Ready to Move,Resale,,Furnished,,Flat,5230.769231,Ghaziabad
+8000000,1450,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,5517.241379,Ghaziabad
+6000000,1385,3,2,4.0,Ready to Move,New Property,,,,Flat,4332.129964,Greater Noida
+7900000,900,2,2,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8777.777778,New Delhi
+15000000,2200,4,4,2.0,Ready to Move,New Property,2.0,,2.0,Individual House,6818.181818,Gurgaon
+5530000,1045,2,2,,Ready to Move,Resale,,,,Flat,5291.866029,Noida
+4800000,1010,2,2,,Ready to Move,Resale,1.0,,,Flat,4752.475248,Noida
+10300000,1600,3,2,2.0,Ready to Move,Resale,2.0,,2.0,Individual House,6437.5,Gurgaon
+2500000,650,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3846.153846,Faridabad
+6000000,1200,3,3,2.0,Ready to Move,Resale,,,,Flat,5000.0,Gurgaon
+3500000,579,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6044.905009,New Delhi
+4500000,850,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,5294.117647,Ghaziabad
+42500000,4500,3,5,4.0,Ready to Move,Resale,2.0,Semi-Furnished,3.0,Flat,9444.444444,Gurgaon
+2580000,845,3,2,2.0,,Resale,750.0,Semi-Furnished,2.0,Flat,3053.254438,Faridabad
+2500000,933,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Individual House,2679.528403,Ghaziabad
+9000000,1100,3,2,2.0,Ready to Move,Resale,,,,Flat,8181.818182,New Delhi
+4300000,1120,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,3839.285714,New Delhi
+9500000,1250,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,7600.0,New Delhi
+15000000,2400,5,5,4.0,Ready to Move,Resale,,Unfurnished,0.0,Flat,6250.0,New Delhi
+6000000,1155,2,2,,,Resale,,Semi-Furnished,,Flat,5194.805195,Ghaziabad
+5200000,1530,3,3,3.0,,Resale,1.0,Unfurnished,2.0,Flat,3398.69281,Noida
+13000000,1548,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,8397.932817,Gurgaon
+3000000,850,2,2,2.0,Ready to Move,Resale,,,,Flat,3529.411765,Noida
+7200000,1250,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5760.0,New Delhi
+6500000,1140,2,2,4.0,Ready to Move,Resale,,,,Flat,5701.754386,Noida
+7500000,1825,3,2,,Ready to Move,Resale,,Furnished,,Flat,4109.589041,Greater Noida
+4900000,1200,2,2,3.0,Ready to Move,Resale,,,,Flat,4083.333333,Faridabad
+4500000,900,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,5000.0,Faridabad
+6000000,903,2,2,,Ready to Move,Resale,1.0,,0.0,Flat,6644.518272,Gurgaon
+4200000,1335,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3146.067416,Greater Noida
+4960000,1150,2,2,2.0,Ready to Move,New Property,,Unfurnished,,Flat,4313.043478,Noida
+3800000,1130,2,2,3.0,Ready to Move,New Property,,Unfurnished,,Individual House,3362.831858,Greater Noida
+6200000,1185,3,3,,Ready to Move,Resale,,,,Individual House,5232.067511,Gurgaon
+3000000,590,2,2,1.0,,New Property,,Semi-Furnished,,Flat,5084.745763,Gurgaon
+16000000,1700,4,4,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,9411.764706,Gurgaon
+11000000,1350,2,2,1.0,Ready to Move,Resale,2.0,,,Flat,8148.148148,New Delhi
+11000000,1200,2,2,2.0,Ready to Move,Resale,1.0,Unfurnished,4.0,Flat,9166.666667,Gurgaon
+3800000,950,2,2,,Ready to Move,Resale,,,,Flat,4000.0,Noida
+10500000,1196,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,8779.264214,New Delhi
+3000000,600,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5000.0,Ghaziabad
+7790000,1760,3,3,,Ready to Move,Resale,,,,Flat,4426.136364,Gurgaon
+8550000,1751,3,3,4.0,Ready to Move,New Property,,,,Flat,4882.924043,Gurgaon
+11000000,1150,3,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,9565.217391,New Delhi
+3000000,700,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4285.714286,Ghaziabad
+3550000,800,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,4437.5,Ghaziabad
+4500000,1097,3,2,,Ready to Move,Resale,,Furnished,,Flat,4102.096627,New Delhi
+24500000,2400,4,4,3.0,Ready to Move,Resale,2.0,Semi-Furnished,1.0,Flat,10208.33333,Gurgaon
+8500000,1775,3,3,3.0,Ready to Move,Resale,2.0,,2.0,Flat,4788.732394,Noida
+6500000,1810,3,3,,Ready to Move,Resale,1.0,,,Flat,3591.160221,Ghaziabad
+5800000,980,3,2,2.0,Ready to Move,New Property,,,0.0,Individual House,5918.367347,New Delhi
+8000000,1300,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,6153.846154,Gurgaon
+13000000,1440,3,2,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,9027.777778,New Delhi
+5500000,1505,3,3,,Ready to Move,Resale,,,,Individual House,3654.48505,Greater Noida
+4500000,1005,2,2,2.0,Ready to Move,Resale,,,,Flat,4477.61194,Greater Noida
+4100000,1164,2,2,,Ready to Move,Resale,,,,Individual House,3522.33677,Greater Noida
+8700000,1150,3,3,1.0,Ready to Move,Resale,1.0,Furnished,2.0,Flat,7565.217391,Gurgaon
+7600000,1100,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,6909.090909,Gurgaon
+6030000,1415,3,2,,Ready to Move,Resale,,,,Flat,4261.484099,Faridabad
+6000000,1400,3,3,3.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,4285.714286,Noida
+25000000,3500,4,3,1.0,Ready to Move,Resale,,,,Flat,7142.857143,Noida
+8500000,1050,2,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,8095.238095,New Delhi
+6380000,1170,3,2,1.0,Ready to Move,New Property,1.0,Semi-Furnished,1.0,Flat,5452.991453,New Delhi
+9200000,1430,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6433.566434,Gurgaon
+4000000,1144,2,2,,Ready to Move,Resale,,,,Flat,3496.503497,Ghaziabad
+9000000,1365,3,2,3.0,Ready to Move,Resale,3.0,Furnished,,Flat,6593.406593,Ghaziabad
+9000000,1250,2,2,2.0,Ready to Move,Resale,,,,Individual House,7200.0,New Delhi
+4200000,1358,2,2,3.0,Ready to Move,New Property,,,,Flat,3092.783505,Faridabad
+2600000,800,2,2,1.0,Ready to Move,Resale,1.0,,1.0,Flat,3250.0,Ghaziabad
+20500000,2200,4,3,3.0,Ready to Move,Resale,2.0,,2.0,Flat,9318.181818,New Delhi
+5800000,1081,3,2,,,Resale,,Semi-Furnished,,Flat,5365.402405,Gurgaon
+4800000,900,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,5333.333333,New Delhi
+17500000,1920,3,4,2.0,Ready to Move,New Property,,Unfurnished,,Individual House,9114.583333,New Delhi
+16000000,1750,3,2,3.0,Ready to Move,Resale,2.0,,2.0,Flat,9142.857143,New Delhi
+7500000,1100,2,2,,Ready to Move,Resale,2.0,Unfurnished,,Flat,6818.181818,Gurgaon
+12000000,1800,3,3,2.0,Ready to Move,Resale,4.0,,0.0,Flat,6666.666667,Faridabad
+4400000,1475,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,2983.050847,Noida
+3800000,900,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,4222.222222,Ghaziabad
+4500000,1410,3,2,,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,3191.489362,Greater Noida
+6500000,900,4,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,7222.222222,Ghaziabad
+6200000,1315,3,2,5.0,Ready to Move,Resale,1.0,,2.0,Flat,4714.828897,Noida
+9500000,2152,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Individual House,4414.498141,Greater Noida
+3200000,600,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,5333.333333,Gurgaon
+6870000,1404,3,3,,Under Construction,New Property,,,2.0,Flat,4893.162393,Noida
+4100000,1153,2,2,2.0,Ready to Move,New Property,2.0,,,Flat,3555.941023,Faridabad
+7000000,1550,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,4516.129032,Noida
+4900000,1285,2,2,2.0,Ready to Move,Resale,,,,Individual House,3813.229572,Ghaziabad
+7800000,1385,2,2,3.0,,Resale,,Semi-Furnished,,Flat,5631.768953,Gurgaon
+13000000,3210,4,4,,Ready to Move,Resale,,,,Flat,4049.844237,Greater Noida
+3100000,1000,2,2,,Ready to Move,Resale,,,,Flat,3100.0,Greater Noida
+9200000,1368,2,2,,,Resale,,Furnished,,Flat,6725.146199,Gurgaon
+10500000,1850,3,3,4.0,Ready to Move,Resale,1.0,,2.0,Flat,5675.675676,Gurgaon
+3000000,851,2,2,2.0,Ready to Move,Resale,1.0,Unfurnished,,Individual House,3525.264395,Greater Noida
+14500000,1950,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,7435.897436,New Delhi
+4600000,1105,2,2,4.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,4162.895928,Greater Noida
+3400000,1075,2,2,2.0,Ready to Move,Resale,,,,Flat,3162.790698,Greater Noida
+8000000,900,2,4,,,Resale,,Furnished,,Flat,8888.888889,New Delhi
+9200000,1733,3,3,2.0,Ready to Move,Resale,1.0,,2.0,Flat,5308.713214,Gurgaon
+6200000,1554,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,3989.70399,Faridabad
+4000000,1045,2,2,,,Resale,,Semi-Furnished,,Flat,3827.751196,Faridabad
+5200000,900,3,2,,Ready to Move,Resale,1.0,,0.0,Flat,5777.777778,Ghaziabad
+4500000,1175,3,2,2.0,,Resale,,Unfurnished,,Flat,3829.787234,Greater Noida
+4500000,1360,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3308.823529,Ghaziabad
+6000000,800,3,2,1.0,Ready to Move,Resale,,Furnished,,Flat,7500.0,New Delhi
+9500000,1572,3,3,3.0,Ready to Move,Resale,1.0,,,Individual House,6043.256997,Gurgaon
+4500000,1405,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3202.846975,Ghaziabad
+12500000,1855,3,3,4.0,Ready to Move,Resale,,,,Flat,6738.544474,Ghaziabad
+3140000,945,2,2,2.0,Ready to Move,Resale,1.0,,,Individual House,3322.751323,Greater Noida
+13000000,585,4,4,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,22222.22222,New Delhi
+5900000,929,2,2,2.0,Ready to Move,Resale,1.0,,0.0,Flat,6350.914962,Gurgaon
+8000000,900,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,8888.888889,New Delhi
+5200000,1265,3,2,3.0,Ready to Move,New Property,,,,Flat,4110.671937,Noida
+5000000,1441,3,3,3.0,Ready to Move,Resale,,,,Flat,3469.81263,Greater Noida
+10000000,1256,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,7961.783439,Gurgaon
+6800000,1690,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,4023.668639,Ghaziabad
+10500000,1100,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,9545.454545,New Delhi
+4600000,1425,3,2,,Ready to Move,Resale,,Furnished,,Flat,3228.070175,Ghaziabad
+38500000,2721,4,4,3.0,Ready to Move,Resale,3.0,,4.0,Flat,14149.20985,Gurgaon
+3100000,630,2,2,2.0,,Resale,1.0,Unfurnished,2.0,Flat,4920.634921,Gurgaon
+5500000,1205,2,2,3.0,Ready to Move,Resale,,,,Flat,4564.315353,Ghaziabad
+3000000,990,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3030.30303,Ghaziabad
+4000000,965,2,2,2.0,Ready to Move,Resale,1.0,Furnished,,Flat,4145.07772,Greater Noida
+5900000,950,2,2,2.0,Ready to Move,Resale,1.0,,0.0,Flat,6210.526316,Gurgaon
+11500000,1647,3,3,3.0,Ready to Move,Resale,2.0,,2.0,Flat,6982.392228,Noida
+3200000,597,2,2,1.0,Ready to Move,New Property,,,,Flat,5360.134003,Gurgaon
+3300000,1250,2,2,,Ready to Move,Resale,,,,Flat,2640.0,Ghaziabad
+13900000,2300,4,4,3.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,6043.478261,Gurgaon
+5700000,976,3,2,1.0,Ready to Move,Resale,1.0,Furnished,,Flat,5840.163934,Ghaziabad
+4200000,900,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Individual House,4666.666667,Ghaziabad
+6000000,1264,2,2,3.0,Ready to Move,Resale,,,,Individual House,4746.835443,Gurgaon
+6500000,1595,3,3,3.0,Ready to Move,Resale,1.0,,2.0,Flat,4075.23511,Greater Noida
+4200000,1050,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,4000.0,Ghaziabad
+11000000,2080,3,4,4.0,Ready to Move,Resale,1.0,,1.0,Flat,5288.461538,Noida
+3800000,1267,3,2,3.0,Ready to Move,Resale,1.0,,,Flat,2999.210734,Greater Noida
+4500000,1200,2,3,2.0,Ready to Move,Resale,,,,Flat,3750.0,Noida
+5000000,1550,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,3225.806452,Ghaziabad
+2900000,985,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,2944.162437,Ghaziabad
+3100000,770,2,2,,Ready to Move,Resale,1.0,,,Flat,4025.974026,Greater Noida
+5000000,800,2,2,,Ready to Move,Resale,,Semi-Furnished,,Individual House,6250.0,Ghaziabad
+4500000,600,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,7500.0,New Delhi
+5200000,1085,2,2,4.0,Ready to Move,Resale,1.0,,2.0,Flat,4792.626728,Noida
+30000000,5700,7,7,,Ready to Move,Resale,,Semi-Furnished,,Flat,5263.157895,Ghaziabad
+6000000,1100,2,2,3.0,Ready to Move,Resale,,Unfurnished,,Individual House,5454.545455,Ghaziabad
+9000000,1490,3,3,3.0,Ready to Move,Resale,,,,Flat,6040.268456,Gurgaon
+3800000,625,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6080.0,New Delhi
+5400000,1135,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,4757.709251,Noida
+5700000,1250,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4560.0,Ghaziabad
+10000000,1180,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,8474.576271,Gurgaon
+17500000,2600,4,5,,Ready to Move,Resale,,Semi-Furnished,,Flat,6730.769231,Gurgaon
+4500000,1025,2,2,2.0,Ready to Move,Resale,,,,Individual House,4390.243902,Noida
+13000000,1300,4,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,10000.0,New Delhi
+6000000,1110,2,2,,Ready to Move,Resale,,,,Flat,5405.405405,Noida
+14500000,1600,3,3,,,Resale,,Unfurnished,,Flat,9062.5,Gurgaon
+12500000,2000,3,3,4.0,Ready to Move,Resale,,,,Flat,6250.0,Gurgaon
+3500000,900,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,1.0,Flat,3888.888889,New Delhi
+5850000,1450,3,3,1.0,Ready to Move,Resale,,Furnished,,Flat,4034.482759,Ghaziabad
+7000000,1100,3,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,6363.636364,Ghaziabad
+6500000,1235,2,2,,Ready to Move,Resale,,,,Flat,5263.157895,Ghaziabad
+4000000,1025,2,2,2.0,,Resale,2.0,Semi-Furnished,,Flat,3902.439024,Faridabad
+3060000,880,2,2,4.0,Ready to Move,Resale,,,,Flat,3477.272727,Greater Noida
+11500000,1550,4,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,7419.354839,Gurgaon
+3500000,1000,2,2,2.0,Ready to Move,New Property,,,,Flat,3500.0,Noida
+6500000,900,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,7222.222222,New Delhi
+11200000,1126,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,9946.714032,New Delhi
+3500000,1290,2,2,,Ready to Move,Resale,,,,Flat,2713.178295,Faridabad
+3900000,745,2,2,2.0,,New Property,,Unfurnished,,Flat,5234.899329,Gurgaon
+4800000,1150,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,4173.913043,Ghaziabad
+11000000,1920,3,3,3.0,Ready to Move,Resale,2.0,,7.0,Flat,5729.166667,Gurgaon
+8600000,1500,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5733.333333,Faridabad
+7200000,1080,2,2,3.0,Ready to Move,New Property,,,,Flat,6666.666667,Ghaziabad
+8500000,1650,3,3,3.0,Ready to Move,Resale,1.0,,2.0,Flat,5151.515152,Ghaziabad
+6500000,1100,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Individual House,5909.090909,Ghaziabad
+4000000,1200,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,3333.333333,Ghaziabad
+5000000,1164,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4295.532646,Greater Noida
+10700000,1962,3,3,3.0,Ready to Move,New Property,,,,Flat,5453.618756,Noida
+4500000,981,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,4587.155963,Faridabad
+3200000,948,2,2,2.0,Ready to Move,New Property,,,,Flat,3375.527426,Greater Noida
+11000000,1300,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,8461.538462,Gurgaon
+9800000,1730,3,3,3.0,Ready to Move,Resale,1.0,,2.0,Individual House,5664.739884,Noida
+23000000,1450,3,3,,Ready to Move,Resale,,,,Individual House,15862.06897,New Delhi
+5000000,875,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5714.285714,Noida
+7500000,1660,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4518.072289,Noida
+4300000,968,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,4442.14876,Ghaziabad
+3800000,1200,3,3,,,Resale,,Semi-Furnished,,Flat,3166.666667,Ghaziabad
+10500000,1789,3,3,3.0,,Resale,,Unfurnished,,Flat,5869.200671,Gurgaon
+3500000,741,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,4723.346829,New Delhi
+8500000,1550,3,2,2.0,Ready to Move,Resale,,,,Flat,5483.870968,Ghaziabad
+4200000,900,2,3,1.0,Ready to Move,Resale,1.0,Furnished,,Flat,4666.666667,Gurgaon
+4400000,980,2,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4489.795918,Greater Noida
+13000000,2285,3,3,3.0,Ready to Move,Resale,1.0,,3.0,Flat,5689.277899,Gurgaon
+6700000,1135,2,2,4.0,Ready to Move,Resale,1.0,,2.0,Flat,5903.0837,Noida
+3500000,1050,2,2,,Ready to Move,Resale,,,,Flat,3333.333333,Ghaziabad
+5300000,1540,3,3,4.0,Ready to Move,Resale,,,2.0,Flat,3441.558442,Greater Noida
+3200000,990,2,2,,,Resale,,Semi-Furnished,,Flat,3232.323232,Greater Noida
+4600000,1295,3,2,,Ready to Move,Resale,,,,Flat,3552.123552,Greater Noida
+3000000,1050,2,2,2.0,Ready to Move,Resale,,,,Flat,2857.142857,Ghaziabad
+7500000,1170,3,2,1.0,Ready to Move,Resale,2.0,Semi-Furnished,1.0,Flat,6410.25641,New Delhi
+4200000,1105,2,2,4.0,Ready to Move,New Property,1.0,,3.0,Flat,3800.904977,Noida
+10700000,1100,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,9727.272727,New Delhi
+5000000,950,3,2,2.0,,Resale,,Unfurnished,,Individual House,5263.157895,Gurgaon
+10500000,1822,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,5762.897914,Gurgaon
+2850000,850,2,2,2.0,Ready to Move,Resale,2.0,,2.0,Flat,3352.941176,Ghaziabad
+6500000,1595,3,3,,,Resale,,Unfurnished,,Flat,4075.23511,Greater Noida
+4600000,936,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4914.529915,New Delhi
+9500000,1935,3,4,,Ready to Move,Resale,,Unfurnished,,Flat,4909.560724,Gurgaon
+4000000,975,2,2,,Ready to Move,Resale,,,,Flat,4102.564103,Greater Noida
+12500000,1935,3,4,,Ready to Move,Resale,,,,Individual House,6459.94832,Ghaziabad
+6500000,1410,3,2,3.0,Ready to Move,Resale,,,,Flat,4609.929078,Noida
+7700000,1125,3,3,2.0,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,6844.444444,Gurgaon
+5000000,1000,3,2,2.0,Ready to Move,Resale,,Furnished,,Individual House,5000.0,New Delhi
+5000000,1295,2,2,,Ready to Move,Resale,1.0,,,Flat,3861.003861,Greater Noida
+6000000,1469,3,3,4.0,Ready to Move,Resale,,,,Individual House,4084.411164,Gurgaon
+4800000,900,2,2,,Ready to Move,Resale,,Furnished,,Flat,5333.333333,Ghaziabad
+6800000,1206,2,2,3.0,Ready to Move,Resale,,,,Flat,5638.474295,Noida
+4600000,1082,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4251.386322,Ghaziabad
+11800000,2025,3,3,3.0,,Resale,,Unfurnished,,Flat,5827.160494,Gurgaon
+9800000,1765,3,3,2.0,,Resale,1.0,Unfurnished,,Flat,5552.407932,Gurgaon
+16000000,2150,3,3,2.0,,Resale,2.0,Unfurnished,,Flat,7441.860465,Gurgaon
+26000000,4000,5,5,,Ready to Move,Resale,,Unfurnished,,Flat,6500.0,Gurgaon
+5400000,900,3,2,2.0,Ready to Move,Resale,,Furnished,0.0,Flat,6000.0,New Delhi
+3200000,815,2,2,,Ready to Move,Resale,,,,Flat,3926.380368,Greater Noida
+4500000,1245,3,2,4.0,Ready to Move,Resale,,,,Flat,3614.457831,Greater Noida
+16000000,1900,3,3,1.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,8421.052632,New Delhi
+3400000,760,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4473.684211,Ghaziabad
+2900000,900,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,3222.222222,Ghaziabad
+3500000,800,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4375.0,Ghaziabad
+5500000,1090,2,2,1.0,Ready to Move,Resale,,,,Flat,5045.87156,Ghaziabad
+6000000,900,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Individual House,6666.666667,Ghaziabad
+6040000,1341,3,2,,Ready to Move,Resale,,,,Flat,4504.101417,Ghaziabad
+4400000,988,2,2,2.0,Ready to Move,Resale,1.0,,,Flat,4453.441296,Noida
+4000000,950,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Individual House,4210.526316,Ghaziabad
+4500000,900,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5000.0,New Delhi
+7500000,1690,3,3,3.0,Ready to Move,Resale,,,,Flat,4437.869822,Ghaziabad
+2650000,850,3,2,,,Resale,,Unfurnished,,Flat,3117.647059,Faridabad
+4200000,890,2,2,3.0,Ready to Move,Resale,,,,Flat,4719.101124,Noida
+19800000,2560,4,4,7.0,Ready to Move,Resale,,,,Flat,7734.375,Gurgaon
+34200000,2985,3,5,2.0,Ready to Move,Resale,2.0,,8.0,Individual House,11457.28643,Gurgaon
+5500000,1470,3,2,1.0,Ready to Move,Resale,,,,Flat,3741.496599,Ghaziabad
+4000000,660,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6060.606061,Ghaziabad
+7250000,1295,2,2,4.0,Ready to Move,Resale,624.0,,,Individual House,5598.455598,Gurgaon
+4000000,850,2,2,,Ready to Move,New Property,,Unfurnished,,Flat,4705.882353,Faridabad
+6800000,1340,3,2,3.0,Ready to Move,Resale,,,,Flat,5074.626866,Ghaziabad
+8500000,1570,3,4,3.0,Ready to Move,New Property,,,,Individual House,5414.012739,Gurgaon
+3200000,765,2,2,1.0,Ready to Move,Resale,2.0,Unfurnished,,Flat,4183.006536,New Delhi
+8110000,1690,3,3,4.0,,New Property,1.0,Unfurnished,3.0,Flat,4798.816568,Ghaziabad
+7000000,1742,3,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4018.36969,Greater Noida
+4200000,1337,2,2,2.0,Ready to Move,Resale,,,,Flat,3141.361257,Faridabad
+7500000,1840,3,3,3.0,Ready to Move,Resale,,,,Flat,4076.086957,Ghaziabad
+5000000,936,2,2,2.0,Ready to Move,Resale,,,,Individual House,5341.880342,Ghaziabad
+6000000,720,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,8333.333333,New Delhi
+13000000,1800,3,3,,Ready to Move,Resale,1.0,Unfurnished,,Flat,7222.222222,Gurgaon
+25000000,3130,4,3,,Ready to Move,Resale,,,,Flat,7987.220447,Gurgaon
+6000000,900,3,2,,Ready to Move,Resale,,Furnished,,Flat,6666.666667,New Delhi
+5000000,990,2,2,,Ready to Move,Resale,,,,Flat,5050.505051,Gurgaon
+2500000,750,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3333.333333,Gurgaon
+5500000,950,3,2,2.0,Ready to Move,New Property,,Unfurnished,,Individual House,5789.473684,New Delhi
+3070000,890,2,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,3449.438202,Greater Noida
+15300000,2506,4,5,,Under Construction,New Property,,,,Individual House,6105.347167,Greater Noida
+4400000,1300,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3384.615385,Ghaziabad
+6000000,1155,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5194.805195,Ghaziabad
+9300000,1695,3,3,3.0,Ready to Move,Resale,1.0,,3.0,Individual House,5486.725664,Noida
+3310000,950,2,2,,Ready to Move,Resale,,,,Flat,3484.210526,Noida
+11000000,2466,4,4,4.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,4460.665045,Faridabad
+5500000,1341,3,2,3.0,Ready to Move,Resale,,Unfurnished,,Flat,4101.416853,Ghaziabad
+6600000,900,4,3,1.0,Ready to Move,Resale,,Unfurnished,,Flat,7333.333333,Gurgaon
+3500000,1280,2,3,2.0,Ready to Move,Resale,,,,Flat,2734.375,Ghaziabad
+23500000,1800,4,3,2.0,Ready to Move,New Property,2.0,Semi-Furnished,1.0,Individual House,13055.55556,New Delhi
+5500000,1385,3,3,4.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3971.119134,Greater Noida
+5700000,650,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,8769.230769,New Delhi
+4500000,1060,2,2,,Ready to Move,Resale,,,,Individual House,4245.283019,Greater Noida
+3200000,820,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3902.439024,New Delhi
+6300000,916,2,2,2.0,Ready to Move,Resale,,,,Individual House,6877.729258,Noida
+4000000,1267,3,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,3157.063931,Greater Noida
+7500000,1093,2,2,2.0,,Resale,,Furnished,,Flat,6861.848124,Gurgaon
+4100000,1140,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,3596.491228,Ghaziabad
+9200000,1000,2,2,2.0,Ready to Move,Resale,1.0,Furnished,,Individual House,9200.0,New Delhi
+7930000,1385,3,3,,Ready to Move,Resale,,,,Flat,5725.631769,Noida
+13000000,1300,3,3,,Ready to Move,Resale,,Unfurnished,,Flat,10000.0,New Delhi
+3200000,750,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4266.666667,New Delhi
+6000000,1300,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4615.384615,Faridabad
+6950000,1264,2,2,3.0,Ready to Move,Resale,,,,Flat,5498.417722,Ghaziabad
+3500000,1100,3,2,2.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,3181.818182,Ghaziabad
+9000000,1700,3,3,1.0,Ready to Move,Resale,,Unfurnished,,Flat,5294.117647,Gurgaon
+10800000,1300,2,2,3.0,Ready to Move,Resale,2.0,,,Flat,8307.692308,New Delhi
+4090000,1120,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,3651.785714,Faridabad
+5300000,1365,3,3,,Ready to Move,Resale,,Unfurnished,,Individual House,3882.783883,Noida
+39000000,5000,5,5,,Ready to Move,Resale,,,,Individual House,7800.0,Gurgaon
+7500000,1625,3,3,,Ready to Move,Resale,,,,Individual House,4615.384615,Noida
+7650000,1390,3,2,3.0,Ready to Move,Resale,,,,Flat,5503.597122,Ghaziabad
+2100000,800,2,2,1.0,Ready to Move,New Property,,Furnished,,Flat,2625.0,Ghaziabad
+7000000,1316,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5319.148936,Faridabad
+4500000,1100,2,2,2.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,4090.909091,Faridabad
+6240000,1260,2,2,2.0,,Resale,,Unfurnished,,Flat,4952.380952,Gurgaon
+14000000,1350,3,2,1.0,Ready to Move,New Property,,Semi-Furnished,,Flat,10370.37037,New Delhi
+4100000,1315,3,3,3.0,Ready to Move,Resale,,,,Flat,3117.870722,Ghaziabad
+5000000,1425,2,2,4.0,Ready to Move,Resale,,,,Flat,3508.77193,Ghaziabad
+11000000,1210,2,2,,,Resale,,Furnished,,Flat,9090.909091,Gurgaon
+3900000,750,3,2,1.0,Ready to Move,New Property,1.0,Semi-Furnished,1.0,Flat,5200.0,New Delhi
+6800000,1350,3,3,,Ready to Move,Resale,,,,Individual House,5037.037037,Gurgaon
+5200000,1070,2,2,2.0,Ready to Move,Resale,,,,Individual House,4859.813084,Gurgaon
+11000000,2370,4,3,,Ready to Move,Resale,1.0,,,Flat,4641.350211,Ghaziabad
+11000000,1814,3,3,3.0,Ready to Move,Resale,1.0,,2.0,Flat,6063.947078,Gurgaon
+3600000,700,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5142.857143,Ghaziabad
+7150000,1295,2,3,5.0,Ready to Move,Resale,2.0,,2.0,Flat,5521.235521,Noida
+2800000,850,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3294.117647,Ghaziabad
+16200000,1700,3,3,3.0,Ready to Move,Resale,2.0,,2.0,Flat,9529.411765,New Delhi
+7500000,1100,3,3,2.0,Ready to Move,Resale,,Furnished,,Individual House,6818.181818,New Delhi
+7500000,1200,2,2,2.0,Ready to Move,Resale,2.0,,,Flat,6250.0,Gurgaon
+5800000,1200,3,3,3.0,Ready to Move,Resale,1.0,,,Individual House,4833.333333,Ghaziabad
+10000000,1812,4,4,,Ready to Move,Resale,2.0,,,Flat,5518.763797,Gurgaon
+3500000,1005,2,2,1.0,Ready to Move,Resale,,,,Flat,3482.587065,Greater Noida
+6400000,1700,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,3764.705882,Greater Noida
+9000000,2250,4,4,4.0,Ready to Move,Resale,,,,Flat,4000.0,Noida
+4960000,1000,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4960.0,New Delhi
+8900000,1000,2,2,2.0,Ready to Move,Resale,2.0,Semi-Furnished,0.0,Flat,8900.0,Gurgaon
+5700000,1400,3,2,2.0,Ready to Move,New Property,1.0,Semi-Furnished,1.0,Flat,4071.428571,New Delhi
+9000000,1380,3,2,4.0,Ready to Move,Resale,,,3.0,Flat,6521.73913,Ghaziabad
+3080000,965,2,2,,Ready to Move,Resale,,,,Individual House,3191.709845,Ghaziabad
+4800000,1350,3,3,3.0,Ready to Move,Resale,1.0,,2.0,Flat,3555.555556,Ghaziabad
+5000000,900,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5555.555556,New Delhi
+4000000,1291,3,2,,,Resale,,Unfurnished,,Flat,3098.373354,Greater Noida
+15000000,2000,4,4,3.0,Ready to Move,Resale,2.0,,0.0,Flat,7500.0,Gurgaon
+6100000,1310,3,2,4.0,Ready to Move,New Property,2.0,,2.0,Flat,4656.48855,Ghaziabad
+5000000,1425,3,2,,,Resale,,Semi-Furnished,,Individual House,3508.77193,Greater Noida
+5500000,1520,3,3,,Ready to Move,Resale,,,,Flat,3618.421053,Noida
+5200000,1333,3,2,4.0,Ready to Move,Resale,,,,Flat,3900.975244,Noida
+30000000,4000,5,7,,,Resale,,Semi-Furnished,,Flat,7500.0,Ghaziabad
+4500000,1060,2,2,2.0,Ready to Move,Resale,,,,Flat,4245.283019,Greater Noida
+3600000,1075,2,2,3.0,Ready to Move,Resale,1.0,,5.0,Individual House,3348.837209,Ghaziabad
+2800000,900,2,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,3.0,Flat,3111.111111,Ghaziabad
+3500000,1034,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,3384.912959,Greater Noida
+5000000,1360,3,3,3.0,,Resale,1.0,Unfurnished,,Individual House,3676.470588,Greater Noida
+8500000,1345,3,2,3.0,Ready to Move,Resale,,,,Flat,6319.702602,Noida
+5500000,1000,2,2,2.0,Ready to Move,Resale,103.0,,2.0,Individual House,5500.0,Noida
+3500000,1033,2,2,,Ready to Move,Resale,,Unfurnished,,Individual House,3388.189739,Ghaziabad
+11000000,1350,2,2,3.0,Ready to Move,Resale,,,,Flat,8148.148148,Gurgaon
+13500000,1450,4,2,,Ready to Move,Resale,2.0,Furnished,,Individual House,9310.344828,New Delhi
+4000000,919,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4352.557127,Greater Noida
+3500000,950,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3684.210526,Ghaziabad
+3400000,935,2,2,,Ready to Move,Resale,,,,Flat,3636.363636,Greater Noida
+6300000,1490,3,3,4.0,Ready to Move,New Property,,,2.0,Flat,4228.187919,Ghaziabad
+9500000,1430,2,2,1.0,Ready to Move,Resale,,,,Individual House,6643.356643,Gurgaon
+6200000,1128,2,2,4.0,Ready to Move,New Property,2.0,,,Flat,5496.453901,Gurgaon
+6700000,1380,3,2,5.0,Ready to Move,Resale,1.0,,2.0,Flat,4855.072464,Ghaziabad
+6500000,1832,3,3,5.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,3548.034934,Faridabad
+4400000,1295,3,2,2.0,Ready to Move,New Property,,,,Flat,3397.683398,Ghaziabad
+3820000,1290,2,2,,Ready to Move,Resale,,,,Flat,2961.24031,Faridabad
+4500000,1200,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Flat,3750.0,Faridabad
+9500000,1125,3,3,2.0,Ready to Move,Resale,,Furnished,,Flat,8444.444444,New Delhi
+14000000,1590,2,2,,Ready to Move,Resale,,,,Flat,8805.031447,Gurgaon
+4600000,1100,2,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,2.0,Flat,4181.818182,Greater Noida
+2800000,835,2,2,2.0,Ready to Move,Resale,,,2.0,Flat,3353.293413,Greater Noida
+4500000,1225,3,2,,Ready to Move,Resale,,,,Individual House,3673.469388,Greater Noida
+3600000,1000,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,3600.0,Ghaziabad
+26500000,2400,4,3,4.0,Ready to Move,Resale,1.0,,2.0,Flat,11041.66667,New Delhi
+10500000,1600,3,3,3.0,Ready to Move,Resale,2.0,,2.0,Flat,6562.5,Noida
+4500000,1198,3,2,1.0,Ready to Move,Resale,,Furnished,,Flat,3756.260434,Ghaziabad
+12900000,1865,3,3,,,Resale,,Unfurnished,,Flat,6916.89008,Gurgaon
+3700000,660,2,2,2.0,Ready to Move,New Property,,Furnished,,Flat,5606.060606,Ghaziabad
+8500000,1833,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4637.206765,Gurgaon
+3300000,700,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4714.285714,Ghaziabad
+5500000,950,2,2,3.0,Ready to Move,New Property,,,,Flat,5789.473684,Noida
+5200000,1585,3,3,2.0,Ready to Move,Resale,,,,Flat,3280.757098,Faridabad
+3600000,950,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,3789.473684,Ghaziabad
+11600000,1600,2,2,1.0,Ready to Move,New Property,,,,Individual House,7250.0,Gurgaon
+5100000,1200,2,2,2.0,Ready to Move,Resale,2.0,Semi-Furnished,,Individual House,4250.0,Ghaziabad
+9500000,1100,2,2,1.0,Ready to Move,Resale,,,,Flat,8636.363636,New Delhi
+13000000,2350,4,3,3.0,Ready to Move,Resale,2.0,,2.0,Flat,5531.914894,Ghaziabad
+3000000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3333.333333,Ghaziabad
+4500000,1270,3,2,,Ready to Move,Resale,,,,Flat,3543.307087,Ghaziabad
+5800000,1682,3,3,4.0,Ready to Move,Resale,,,,Individual House,3448.275862,Ghaziabad
+6500000,900,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,7222.222222,New Delhi
+6900000,1600,3,3,10.0,Ready to Move,Resale,2.0,,2.0,Flat,4312.5,Greater Noida
+6900000,1710,3,2,,Ready to Move,Resale,,,,Flat,4035.087719,Ghaziabad
+14000000,2175,3,3,,Ready to Move,Resale,,Furnished,,Individual House,6436.781609,Ghaziabad
+5500000,1297,3,2,3.0,Ready to Move,Resale,1.0,,,Flat,4240.555127,Greater Noida
+3400000,1000,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3400.0,Greater Noida
+3800000,1100,2,2,,Ready to Move,Resale,,,,Flat,3454.545455,Greater Noida
+4000000,730,2,2,1.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,5479.452055,New Delhi
+15400000,1685,3,3,4.0,Ready to Move,Resale,2.0,,2.0,Flat,9139.465875,Ghaziabad
+6200000,1345,2,2,3.0,Ready to Move,Resale,,Unfurnished,,Flat,4609.665428,Gurgaon
+5100000,1100,2,2,,Ready to Move,Resale,,Furnished,,Flat,4636.363636,Ghaziabad
+13600000,1852,3,3,3.0,,Resale,1.0,Unfurnished,3.0,Flat,7343.412527,Gurgaon
+4100000,1060,2,2,3.0,Ready to Move,Resale,,,3.0,Flat,3867.924528,Noida
+14000000,2268,4,4,3.0,Ready to Move,Resale,,,,Flat,6172.839506,Gurgaon
+7600000,1300,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,5846.153846,Noida
+6990000,1100,4,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,6354.545455,New Delhi
+4500000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5000.0,Ghaziabad
+13900000,1750,3,3,4.0,Ready to Move,New Property,2.0,,1.0,Flat,7942.857143,Gurgaon
+13000000,1750,3,4,,Ready to Move,Resale,,Semi-Furnished,,Flat,7428.571429,Gurgaon
+4600000,1740,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,2643.678161,Greater Noida
+4000000,1060,2,2,3.0,Ready to Move,New Property,,Semi-Furnished,,Flat,3773.584906,Greater Noida
+5500000,1400,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,3928.571429,Ghaziabad
+4400000,1325,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3320.754717,Greater Noida
+10000000,1725,4,5,,Ready to Move,Resale,,Semi-Furnished,,Flat,5797.101449,Noida
+7000000,1280,2,2,,Ready to Move,Resale,,Furnished,,Flat,5468.75,Ghaziabad
+4200000,1190,3,2,2.0,Ready to Move,Resale,,,,Flat,3529.411765,Ghaziabad
+14000000,1800,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,7777.777778,Ghaziabad
+4800000,1000,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4800.0,Ghaziabad
+2700000,700,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3857.142857,Ghaziabad
+5500000,950,2,2,2.0,Ready to Move,Resale,2.0,,,Flat,5789.473684,Noida
+21500000,3550,9,9,3.0,Ready to Move,New Property,3.0,Semi-Furnished,,Flat,6056.338028,Ghaziabad
+54000000,2700,4,4,2.0,Ready to Move,Resale,2.0,Semi-Furnished,1.0,Flat,20000.0,New Delhi
+6500000,1300,2,2,,Ready to Move,Resale,,,,Flat,5000.0,Gurgaon
+13700000,1100,4,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,12454.54545,New Delhi
+11000000,1500,3,3,2.0,Ready to Move,Resale,2.0,Semi-Furnished,,Flat,7333.333333,Gurgaon
+8000000,1260,5,2,,Ready to Move,Resale,,Unfurnished,,Flat,6349.206349,New Delhi
+6500000,1230,3,2,2.0,Ready to Move,Resale,12.0,Furnished,0.0,Flat,5284.552846,Faridabad
+5500000,1000,3,2,2.0,Ready to Move,New Property,,Semi-Furnished,,Individual House,5500.0,Ghaziabad
+3800000,1290,2,2,,Ready to Move,Resale,1.0,,2.0,Flat,2945.736434,Ghaziabad
+3500000,945,2,2,2.0,Ready to Move,New Property,1.0,,,Flat,3703.703704,Ghaziabad
+3100000,900,2,2,1.0,Ready to Move,Resale,2.0,Semi-Furnished,,Individual House,3444.444444,Ghaziabad
+6870000,1450,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,4737.931034,Greater Noida
+12100000,1100,3,2,1.0,Ready to Move,Resale,,,,Individual House,11000.0,New Delhi
+5000000,900,3,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,5555.555556,New Delhi
+5270000,1350,3,2,3.0,,New Property,1.0,Semi-Furnished,2.0,Flat,3903.703704,Noida
+10000000,1000,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,10000.0,New Delhi
+3600000,639,2,2,,,Resale,,Semi-Furnished,,Flat,5633.802817,New Delhi
+8500000,1380,3,2,5.0,Ready to Move,Resale,1.0,,4.0,Flat,6159.42029,Ghaziabad
+3650000,800,2,2,,Ready to Move,Resale,,,,Flat,4562.5,Noida
+8500000,1690,3,3,4.0,Ready to Move,Resale,,,,Flat,5029.585799,Gurgaon
+7900000,1625,3,3,3.0,Ready to Move,Resale,1.0,,,Flat,4861.538462,Noida
+9000000,1000,2,2,,Ready to Move,Resale,,Furnished,,Individual House,9000.0,New Delhi
+7000000,1440,3,2,4.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4861.111111,Greater Noida
+8500000,1100,2,3,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,7727.272727,New Delhi
+4200000,950,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4421.052632,Ghaziabad
+15000000,1800,3,3,,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,8333.333333,Gurgaon
+2450000,630,2,2,1.0,Ready to Move,Resale,1.0,,,Flat,3888.888889,Greater Noida
+8000000,1095,2,2,2.0,Ready to Move,Resale,,,,Flat,7305.936073,Ghaziabad
+3700000,1182,2,2,,,Resale,,Unfurnished,,Flat,3130.287648,Greater Noida
+16200000,1935,3,4,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,8372.093023,Gurgaon
+4500000,1000,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,4500.0,Ghaziabad
+5500000,950,2,2,,Ready to Move,Resale,,,,Individual House,5789.473684,Ghaziabad
+4200000,1050,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,4000.0,Greater Noida
+3500000,504,2,2,,,Resale,,Furnished,,Flat,6944.444444,Faridabad
+8500000,1700,3,4,3.0,Ready to Move,New Property,,,,Flat,5000.0,Gurgaon
+11500000,1730,3,4,4.0,Ready to Move,New Property,1.0,Semi-Furnished,,Flat,6647.398844,Noida
+4800000,800,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,6000.0,Gurgaon
+2200000,650,2,2,1.0,Ready to Move,New Property,,,,Flat,3384.615385,Ghaziabad
+9800000,2000,3,3,2.0,Ready to Move,Resale,3.0,Semi-Furnished,0.0,Flat,4900.0,Faridabad
+9500000,1675,3,2,,Ready to Move,Resale,,,,Flat,5671.641791,Ghaziabad
+16600000,2016,4,3,6.0,Ready to Move,New Property,1.0,,,Flat,8234.126984,Gurgaon
+12200000,1889,3,4,4.0,Ready to Move,Resale,2.0,,3.0,Flat,6458.443621,Gurgaon
+3000000,800,2,2,1.0,Ready to Move,Resale,,,,Individual House,3750.0,Noida
+36700000,3498,3,4,2.0,Ready to Move,New Property,5.0,,3.0,Flat,10491.70955,Gurgaon
+10000000,900,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,11111.11111,New Delhi
+9800000,1250,3,2,3.0,Ready to Move,Resale,,Furnished,,Flat,7840.0,Gurgaon
+4800000,1150,2,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4173.913043,Ghaziabad
+5000000,1320,3,3,3.0,Ready to Move,Resale,,,2.0,Flat,3787.878788,Noida
+6670000,1000,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6670.0,New Delhi
+7500000,1263,3,3,4.0,Ready to Move,Resale,1.0,,,Flat,5938.24228,Ghaziabad
+5200000,1275,3,2,,Ready to Move,Resale,,Furnished,,Flat,4078.431373,Ghaziabad
+5780000,1890,3,3,4.0,Ready to Move,Resale,1.0,,2.0,Individual House,3058.201058,Ghaziabad
+7100000,900,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,7888.888889,New Delhi
+5600000,1350,3,3,,Under Construction,New Property,,,2.0,Flat,4148.148148,Noida
+12000000,1450,3,2,2.0,Ready to Move,Resale,,,,Flat,8275.862069,New Delhi
+6000000,1377,3,2,2.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4357.298475,Faridabad
+9900000,1685,3,3,,,Resale,,Unfurnished,,Flat,5875.37092,Gurgaon
+7000000,1690,3,3,,Ready to Move,Resale,,,,Flat,4142.011834,Ghaziabad
+3500000,1050,2,2,,Ready to Move,Resale,1.0,,3.0,Flat,3333.333333,Ghaziabad
+4600000,1400,2,2,,Ready to Move,Resale,,Furnished,,Flat,3285.714286,Ghaziabad
+8700000,1080,3,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,8055.555556,New Delhi
+3000000,855,2,2,2.0,Ready to Move,Resale,,,,Flat,3508.77193,Greater Noida
+3500000,960,2,2,2.0,Ready to Move,Resale,,,,Flat,3645.833333,Greater Noida
+10000000,1170,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,8547.008547,New Delhi
+4800000,1550,3,3,5.0,Ready to Move,Resale,1.0,,2.0,Flat,3096.774194,Ghaziabad
+2400000,740,2,2,1.0,Ready to Move,Resale,2.0,Semi-Furnished,1.0,Individual House,3243.243243,Noida
+2400000,550,2,2,,Ready to Move,Resale,1.0,Semi-Furnished,0.0,Flat,4363.636364,Ghaziabad
+3500000,590,2,2,1.0,,Resale,,Semi-Furnished,,Flat,5932.20339,Gurgaon
+19500000,2400,3,3,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,8125.0,Gurgaon
+15500000,2450,3,3,5.0,Ready to Move,Resale,,,,Individual House,6326.530612,Gurgaon
+14000000,1125,3,2,1.0,Ready to Move,New Property,,Unfurnished,,Flat,12444.44444,New Delhi
+10000000,1850,3,3,2.0,Ready to Move,Resale,,,0.0,Individual House,5405.405405,Ghaziabad
+5800000,1270,3,3,,Ready to Move,Resale,,,,Flat,4566.929134,Noida
+8500000,1766,3,4,4.0,Ready to Move,Resale,,,,Flat,4813.137033,Greater Noida
+9800000,2250,4,3,4.0,,Resale,,Unfurnished,,Individual House,4355.555556,Faridabad
+2600000,720,2,2,2.0,Ready to Move,Resale,,,,Flat,3611.111111,Faridabad
+6500000,1050,3,2,3.0,Ready to Move,Resale,,Semi-Furnished,,Flat,6190.47619,New Delhi
+2890000,900,2,2,,Ready to Move,Resale,,,,Flat,3211.111111,Ghaziabad
+3900000,1150,2,2,,Ready to Move,Resale,,,,Flat,3391.304348,Greater Noida
+3260000,930,2,2,2.0,Ready to Move,Resale,1.0,Unfurnished,,Flat,3505.376344,Greater Noida
+3000000,582,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,5154.639175,Ghaziabad
+2900000,600,2,2,2.0,Ready to Move,Resale,,,,Flat,4833.333333,Gurgaon
+8500000,1735,3,3,,Ready to Move,Resale,,,,Flat,4899.135447,Greater Noida
+3700000,1365,3,2,3.0,Ready to Move,Resale,,,,Flat,2710.622711,Ghaziabad
+4050000,995,2,2,4.0,Ready to Move,Resale,,,,Flat,4070.351759,Greater Noida
+14000000,1950,3,3,5.0,Ready to Move,Resale,,,,Individual House,7179.487179,Gurgaon
+33000000,3000,4,5,3.0,Ready to Move,Resale,4.0,Semi-Furnished,,Flat,11000.0,Gurgaon
+12800000,2000,3,3,4.0,Ready to Move,Resale,1.0,Furnished,2.0,Individual House,6400.0,Ghaziabad
+4500000,950,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,4736.842105,Ghaziabad
+9500000,1480,3,2,,Ready to Move,Resale,,,,Flat,6418.918919,Ghaziabad
+3200000,950,2,2,1.0,Ready to Move,Resale,,Unfurnished,,Individual House,3368.421053,Ghaziabad
+3700000,1150,2,2,,Ready to Move,Resale,,,,Flat,3217.391304,Ghaziabad
+3500000,836,2,2,3.0,Ready to Move,Resale,,,,Flat,4186.602871,Ghaziabad
+3500000,995,3,2,1.0,,Resale,,Unfurnished,,Flat,3517.58794,Greater Noida
+4050000,1040,2,2,2.0,Ready to Move,New Property,,,,Flat,3894.230769,Ghaziabad
+3200000,1050,2,2,1.0,Ready to Move,Resale,,,,Individual House,3047.619048,Ghaziabad
+9200000,1620,3,4,3.0,Ready to Move,New Property,,,,Individual House,5679.012346,Noida
+7000000,1256,2,2,1.0,Ready to Move,Resale,,,,Flat,5573.248408,Noida
+4000000,1260,2,2,2.0,Ready to Move,New Property,,,,Flat,3174.603175,Greater Noida
+4000000,1080,3,2,2.0,,New Property,,Unfurnished,,Flat,3703.703704,Faridabad
+6000000,1150,2,2,,Ready to Move,Resale,1.0,,3.0,Individual House,5217.391304,Noida
+3200000,600,2,2,1.0,Ready to Move,New Property,,,,Flat,5333.333333,New Delhi
+14500000,900,2,2,2.0,Ready to Move,New Property,,Unfurnished,,Flat,16111.11111,New Delhi
+10000000,1710,3,3,5.0,Ready to Move,New Property,,Furnished,,Flat,5847.953216,Ghaziabad
+2600000,700,2,2,1.0,Ready to Move,New Property,,,,Flat,3714.285714,Gurgaon
+6800000,1435,2,2,2.0,Ready to Move,Resale,1.0,,3.0,Flat,4738.675958,Noida
+8700000,950,2,2,2.0,Ready to Move,Resale,,,,Flat,9157.894737,New Delhi
+2600000,546,2,2,1.0,Ready to Move,Resale,,,,Flat,4761.904762,Gurgaon
+32500000,1800,3,3,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,18055.55556,New Delhi
+3800000,1000,2,2,2.0,Ready to Move,New Property,,,,Individual House,3800.0,Ghaziabad
+4500000,750,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6000.0,Ghaziabad
+13000000,1550,2,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,8387.096774,Gurgaon
+3600000,700,2,2,,,Resale,1.0,Furnished,,Flat,5142.857143,New Delhi
+4000000,753,2,2,1.0,,Resale,,Unfurnished,,Flat,5312.084993,New Delhi
+5500000,1125,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4888.888889,Ghaziabad
+3200000,1040,2,2,,Ready to Move,Resale,,Unfurnished,,Flat,3076.923077,Ghaziabad
+7000000,1050,3,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,6666.666667,Gurgaon
+5300000,940,2,2,2.0,Ready to Move,Resale,,,2.0,Flat,5638.297872,Noida
+22500000,1800,3,3,2.0,Ready to Move,New Property,,Semi-Furnished,,Flat,12500.0,New Delhi
+31500000,4200,4,5,,Ready to Move,New Property,,Furnished,,Flat,7500.0,Gurgaon
+7600000,1290,2,2,,Ready to Move,Resale,,,,Flat,5891.472868,Noida
+3050000,1005,2,2,3.0,,New Property,,Unfurnished,,Individual House,3034.825871,Greater Noida
+8000000,1326,3,3,2.0,Ready to Move,Resale,,,1.0,Flat,6033.182504,Gurgaon
+3050000,920,2,2,,Ready to Move,Resale,23.0,,,Flat,3315.217391,Ghaziabad
+3200000,880,2,2,2.0,Ready to Move,Resale,,,,Flat,3636.363636,Noida
+4100000,669,4,3,1.0,Ready to Move,Resale,,Unfurnished,,Flat,6128.550075,Ghaziabad
+13000000,1200,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,10833.33333,New Delhi
+2650000,650,2,2,1.0,,Resale,,Unfurnished,,Individual House,4076.923077,New Delhi
+5200000,1100,3,2,1.0,Ready to Move,Resale,,,,Flat,4727.272727,New Delhi
+4500000,1225,3,2,,Ready to Move,Resale,,,,Flat,3673.469388,Greater Noida
+2900000,890,2,2,,Ready to Move,Resale,,,,Flat,3258.426966,Ghaziabad
+4500000,1248,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3605.769231,Faridabad
+4300000,1487,2,2,3.0,Ready to Move,Resale,1.0,,2.0,Flat,2891.728312,Faridabad
+5200000,1469,3,2,5.0,Ready to Move,Resale,,,,Flat,3539.823009,Noida
+9600000,1000,2,2,2.0,Ready to Move,New Property,,Semi-Furnished,,Individual House,9600.0,New Delhi
+35000000,4000,4,4,5.0,Ready to Move,Resale,2.0,Unfurnished,,Flat,8750.0,Gurgaon
+4300000,837,3,2,1.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,5137.39546,New Delhi
+4300000,1175,2,2,3.0,Ready to Move,Resale,,Furnished,,Flat,3659.574468,Noida
+5750000,1450,3,2,5.0,,Resale,1.0,Semi-Furnished,2.0,Flat,3965.517241,Greater Noida
+5400000,1575,3,2,,Ready to Move,Resale,,Unfurnished,,Flat,3428.571429,Ghaziabad
+15000000,2200,3,3,3.0,Ready to Move,Resale,,,,Individual House,6818.181818,Gurgaon
+4000000,1080,2,2,,Ready to Move,Resale,1.0,,4.0,Flat,3703.703704,Ghaziabad
+8000000,1300,3,3,,Ready to Move,Resale,,Semi-Furnished,,Flat,6153.846154,New Delhi
+5500000,1050,2,2,3.0,Ready to Move,Resale,,,,Flat,5238.095238,Gurgaon
+12600000,2150,3,3,4.0,,Resale,1.0,Semi-Furnished,2.0,Flat,5860.465116,Gurgaon
+9100000,1080,3,2,1.0,Ready to Move,Resale,,Unfurnished,,Flat,8425.925926,New Delhi
+4500000,980,2,2,,Ready to Move,Resale,,Furnished,,Flat,4591.836735,Greater Noida
+11000000,1195,3,2,3.0,Ready to Move,Resale,1.0,Semi-Furnished,,Flat,9205.020921,Gurgaon
+5500000,1230,2,2,3.0,Ready to Move,Resale,2.0,,1.0,Flat,4471.544715,Noida
+4000000,750,2,2,1.0,Ready to Move,Resale,,Semi-Furnished,,Flat,5333.333333,New Delhi
+4800000,1748,3,3,,Ready to Move,Resale,,,,Individual House,2745.995423,Greater Noida
+11000000,1750,3,3,3.0,Ready to Move,Resale,2.0,,3.0,Flat,6285.714286,Noida
+4000000,1265,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,3162.055336,Faridabad
+6200000,1600,2,2,2.0,Ready to Move,Resale,,Unfurnished,,Individual House,3875.0,Ghaziabad
+2250000,800,2,2,2.0,Ready to Move,Resale,,,,Flat,2812.5,Ghaziabad
+8000000,1450,2,2,,Ready to Move,Resale,,,,Flat,5517.241379,Gurgaon
+4500000,924,2,2,4.0,Ready to Move,Resale,,,,Flat,4870.12987,Ghaziabad
+5700000,900,2,2,,Ready to Move,New Property,,Furnished,,Flat,6333.333333,New Delhi
+26500000,1980,3,4,2.0,,Resale,2.0,Semi-Furnished,1.0,Flat,13383.83838,New Delhi
+14500000,2250,3,3,4.0,Ready to Move,Resale,,,,Flat,6444.444444,Gurgaon
+16000000,1700,4,4,3.0,Ready to Move,Resale,,Unfurnished,,Flat,9411.764706,New Delhi
+4500000,1095,2,2,,Ready to Move,Resale,,Semi-Furnished,,Flat,4109.589041,Greater Noida
+6000000,1570,3,3,2.0,Ready to Move,Resale,2.0,Semi-Furnished,2.0,Individual House,3821.656051,Greater Noida
+10300000,1435,3,3,2.0,Ready to Move,New Property,3.0,,,Flat,7177.700348,Gurgaon
+4990000,900,3,2,2.0,Ready to Move,Resale,1.0,Semi-Furnished,,Individual House,5544.444444,New Delhi
+4000000,1250,2,2,,,Resale,,Unfurnished,,Flat,3200.0,Faridabad
+7800000,1300,2,2,2.0,Ready to Move,Resale,1.0,,2.0,Flat,6000.0,Noida
+7700000,1521,3,3,4.0,Ready to Move,Resale,,,,Flat,5062.458909,Greater Noida
+5800000,1365,3,3,2.0,Ready to Move,Resale,,Unfurnished,,Flat,4249.084249,Noida
+8000000,1500,3,3,1.0,Ready to Move,Resale,1.0,Semi-Furnished,2.0,Flat,5333.333333,Noida
+7500000,1260,2,2,,,New Property,1.0,,2.0,Individual House,5952.380952,Gurgaon
+3600000,1106,2,2,3.0,Ready to Move,Resale,,,,Individual House,3254.972875,Greater Noida

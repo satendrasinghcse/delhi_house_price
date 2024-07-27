@@ -1,0 +1,11 @@
+[data]
+raw_data_path = "data/raw/raw_data.csv"
+train_path = "data/raw/train_data.csv"
+test_path = "data/raw/test_data.csv"
+processed_data_path = "data/processed/processed.csv"
+
+
+[artifacts]
+transformer_path = "artifacts/transformer.pkl"
+best_model_path = "artifacts/best_model.pkl"
+
