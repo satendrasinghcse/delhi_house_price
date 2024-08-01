@@ -1,3 +1,4 @@
+README.md
 setup.py
 delhi_house_price.egg-info/PKG-INFO
 delhi_house_price.egg-info/SOURCES.txt
@@ -7,15 +8,11 @@ delhi_house_price.egg-info/top_level.txt
 src/__init__.py
 src/data_process/__init__.py
 src/data_process/data_ingestion.py
-src/data_process/data_lodder.py
-src/data_process/data_transform.py
 src/data_process/data_transformation.py
-src/data_process/preprocess.py
-src/data_process/scale_encode.py
 src/model/__init__.py
-src/model/model_evualtion.py
 src/model/model_trainer.py
 src/model/predict.py
-src/model/train_model.py
 src/utils/__init__.py
+src/utils/exception.py
 src/utils/helpers.py
+src/utils/logger.py
